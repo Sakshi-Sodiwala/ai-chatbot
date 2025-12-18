@@ -1,0 +1,1001 @@
+Review_Id,outlet_product_id_,customer_id_, Review,negative,neutral,positive,sentiment,rev
+1,175,1,Wow... Loved this place.,0.0,28.000000000000004,72.0,pos,Wow  Loved place 
+2,644,1,Crust is not good.,0.0,40.8,59.2,pos,Crust good 
+3,644,1,Not tasty and the texture was just nasty.,54.50000000000001,45.5,0.0,neg,tasty texture nasty 
+4,299,1,Stopped by during the late May bank holiday off Rick Steve recommendation and loved it.,12.3,45.2,42.6,neu,Stopped late May bank holiday Rick Steve recommendation loved 
+5,14,1,The selection on the menu was great and so were the prices.,0.0,49.4,50.6,pos,selection menu great prices 
+6,304,1,Now I am getting angry and I want my damn photo.,58.3,29.1,12.6,neg,getting angry want damn photo 
+7,304,1,Honeslty it didn't taste THAT fresh.),28.2,71.8,0.0,neu,Honeslty nt taste fresh  
+8,230,1,The potatoes were like rubber and you could tell they had been made up ahead of time being kept under a warmer.,0.0,65.7,34.300000000000004,neu,potatoes like rubber could tell made ahead time kept warmer 
+9,17,1,The fries were great too.,0.0,32.800000000000004,67.2,pos,fries great 
+10,17,1,A great touch.,0.0,32.800000000000004,67.2,pos,great touch 
+11,189,1,Service was very prompt.,0.0,100.0,0.0,neu,Service prompt 
+12,198,1,Would not go back.,0.0,100.0,0.0,neu,Would go back 
+13,229,1,The cashier had no care what so ever on what I had to say it still ended up being wayyy overpriced.,0.0,71.39999999999999,28.6,neu,cashier care ever say still ended wayyy overpriced 
+14,304,1,"I tried the Cape Cod ravoli, chicken, with cranberry...mmmm!",0.0,100.0,0.0,neu,tried Cape Cod ravoli  chicken  cranberry  mmmm 
+15,392,1,I was disgusted because I was pretty sure that was human hair.,28.6,25.2,46.2,pos,disgusted pretty sure human hair 
+16,188,1,I was shocked because no signs indicate cash only.,36.5,63.5,0.0,neu,shocked signs indicate cash 
+17,194,1,Highly recommended.,0.0,48.9,51.1,pos,Highly recommended 
+18,309,1,Waitress was a little slow in service.,0.0,100.0,0.0,neu,Waitress little slow service 
+19,310,1,"This place is not worth your time, let alone Vegas.",20.200000000000003,60.6,19.2,neu,place worth time  let alone Vegas 
+20,227,2,did not like at all.,0.0,28.6,71.39999999999999,pos,like 
+21,180,2,The Burrittos Blah!,45.8,54.2,0.0,neu,Burrittos Blah 
+22,390,2,"The food, amazing.",0.0,44.1,55.900000000000006,pos,food  amazing 
+23,3,2,Service is also cute.,0.0,50.0,50.0,neu,Service also cute 
+24,233,2,I could care less... The interior is just beautiful.,0.0,42.2,57.8,pos,could care less  interior beautiful 
+25,223,2,So they performed.,0.0,100.0,0.0,neu,performed 
+26,10,2,That's right....the red velvet cake.....ohhh this stuff is so good.,0.0,77.5,22.5,neu,s right  red velvet cake  ohhh stuff good 
+27,189,2, They never brought a salad we asked for.,0.0,100.0,0.0,neu,never brought salad asked 
+28,302,2,"This hole in the wall has great Mexican street tacos, and friendly staff.",0.0,52.3,47.7,neu,hole wall great Mexican street tacos  friendly staff 
+29,304,2,"Took an hour to get our food only 4 tables in restaurant my food was Luke warm, Our sever was running around like he was totally overwhelmed.",0.0,71.8,28.2,neu,Took hour get food 4 tables restaurant food Luke warm  sever running around like totally overwhelmed 
+30,391,2,The worst was the salmon sashimi.,57.7,42.3,0.0,neg,worst salmon sashimi 
+31,393,2,"Also there are combos like a burger, fries, and beer for 23 which is a decent deal.",0.0,81.5,18.5,neu,Also combos like burger  fries  beer 23 decent deal 
+32,7,2,This was like the final blow!,0.0,51.8,48.2,neu,like final blow 
+33,311,2,I found this place by accident and I could not be happier.,29.5,38.1,32.4,neu,found place accident could happier 
+34,642,2,"seems like a good quick place to grab a bite of some familiar pub food, but do yourself a favor and look elsewhere.",0.0,59.7,40.3,neu,seems like good quick place grab bite familiar pub food  favor look elsewhere 
+35,391,2,"Overall, I like this place a lot.",0.0,66.7,33.300000000000004,neu,Overall  like place lot 
+36,23,2,The only redeeming quality of the restaurant was that it was very inexpensive.,0.0,100.0,0.0,neu,redeeming quality restaurant inexpensive 
+37,21,2,Ample portions and good prices.,0.0,57.99999999999999,42.0,neu,Ample portions good prices 
+38,180,2,"Poor service, the waiter made me feel like I was stupid every time he came to the table.",34.2,52.6,13.2,neu,Poor service  waiter made feel like stupid every time came table 
+39,17,2,My first visit to Hiro was a delight!,0.0,48.8,51.2,pos,first visit Hiro delight 
+40,226,2,Service sucks.,55.60000000000001,44.4,0.0,neg,Service sucks 
+41,584,3,The shrimp tender and moist.,0.0,100.0,0.0,neu,shrimp tender moist 
+42,124,3,There is not a deal good enough that would drag me into that establishment again.,19.4,51.0,29.6,neu,deal good enough would drag establishment 
+43,63,3,Hard to judge whether these sides were good because we were grossed out by the melted styrofoam and didn't want to eat it for fear of getting sick.,33.5,41.2,25.3,neu,Hard judge whether sides good grossed melted styrofoam nt want eat fear getting sick 
+44,890,3,"On a positive note, our server was very attentive and provided great service.",0.0,47.6,52.400000000000006,pos,positive note  server attentive provided great service 
+45,468,3,"Frozen pucks of disgust, with some of the worst people behind the register.",53.3,46.7,0.0,neg,Frozen pucks disgust  worst people behind register 
+46,47,3,The only thing I did like was the prime rib and dessert section.,0.0,70.6,29.4,neu,thing like prime rib dessert section 
+47,63,3,It's too bad the food is so damn generic.,60.8,39.2,0.0,neg,s bad food damn generic 
+48,52,3,"The burger is good beef, cooked just right.",0.0,67.4,32.6,neu,burger good beef  cooked right 
+49,52,3,If you want a sandwich just go to any Firehouse!!!!!,0.0,76.4,23.6,neu,want sandwich go Firehouse     
+50,823,3,"My side Greek salad with the Greek dressing was so tasty, and the pita and hummus was very refreshing.",25.4,74.6,0.0,neu,side Greek salad Greek dressing tasty  pita hummus refreshing 
+51,490,3,We ordered the duck rare and it was pink and tender on the inside with a nice char on the outside.,0.0,76.3,23.7,neu,ordered duck rare pink tender inside nice char outside 
+52,54,3,He came running after us when he realized my husband had left his sunglasses on the table.,0.0,100.0,0.0,neu,came running us realized husband left sunglasses table 
+53,896,3,Their chow mein is so good!,0.0,48.4,51.6,pos,chow mein good 
+54,39,3,"They have horrible attitudes towards customers, and talk down to each one when customers don't enjoy their food.",38.0,62.0,0.0,neu,horrible attitudes towards customers  talk one customers nt enjoy food 
+55,334,3,The portion was huge!,0.0,43.6,56.39999999999999,pos,portion huge 
+56,651,4,"Loved it...friendly servers, great food, wonderful and imaginative menu.",0.0,34.9,65.10000000000001,pos,Loved  friendly servers  great food  wonderful imaginative menu 
+57,833,4,The Heart Attack Grill in downtown Vegas is an absolutely flat-lined excuse for a restaurant.,19.5,44.1,36.4,neu,Heart Attack Grill downtown Vegas absolutely flatlined excuse restaurant 
+58,1129,4,Not much seafood and like 5 strings of pasta at the bottom.,0.0,73.7,26.3,neu,much seafood like 5 strings pasta bottom 
+59,1192,4,"The salad had just the right amount of sauce to not over power the scallop, which was perfectly cooked.",0.0,68.2,31.8,neu,salad right amount sauce power scallop  perfectly cooked 
+60,720,4,"The ripped banana was not only ripped, but petrified and tasteless.",36.8,63.2,0.0,neu,ripped banana ripped  petrified tasteless 
+61,1213,4,At least think to refill my water before I struggle to wave you over for 10 minutes.,22.3,77.7,0.0,neu,least think refill water struggle wave 10 minutes 
+62,848,4,This place receives stars for their APPETIZERS!!!,0.0,100.0,0.0,neu,place receives stars APPETIZERS   
+63,60,4,The cocktails are all handmade and delicious.,0.0,44.8,55.2,pos,cocktails handmade delicious 
+64,68,4,We'd definitely go back here again.,0.0,59.7,40.3,neu,d definitely go back 
+65,834,4,We are so glad we found this place.,0.0,50.0,50.0,neu,glad found place 
+66,1191,4,"Great food and service, huge portions and they give a military discount.",0.0,55.60000000000001,44.4,neu,Great food service  huge portions give military discount 
+67,828,4,Always a great time at Dos Gringos!,0.0,53.2,46.8,neu,Always great time Dos Gringos 
+68,326,4,Update.....went back for a second time and it was still just as amazing,0.0,64.8,35.2,neu,Update  went back second time still amazing
+69,612,4,We got the food and apparently they have never heard of salt and the batter on the fish was chewy.,0.0,100.0,0.0,neu,got food apparently never heard salt batter fish chewy 
+70,1214,4,A great way to finish a great.,0.0,26.8,73.2,pos,great way finish great 
+71,62,4,"The deal included 5 tastings and 2 drinks, and Jeff went above and beyond what we expected.",0.0,100.0,0.0,neu,deal included 5 tastings 2 drinks  Jeff went beyond expected 
+72,132,5,"Really, Really good rice, all the time.",0.0,66.9,33.1,neu,Really  Really good rice  time 
+73,1128,5,The service was meh.,39.4,60.6,0.0,neu,service meh 
+74,1200,5,"It took over 30 min to get their milkshake, which was nothing more than chocolate milk.",0.0,100.0,0.0,neu,took 30 min get milkshake  nothing chocolate milk 
+75,854,5,"I guess I should have known that this place would suck, because it is inside of the Excalibur, but I didn't use my common sense.",18.2,81.8,0.0,neu,guess known place would suck  inside Excalibur  nt use common sense 
+76,720,5,The scallop dish is quite appalling for value as well.,23.6,33.800000000000004,42.6,pos,scallop dish quite appalling value well 
+77,483,5,2 times - Very Bad Customer Service !,38.7,61.3,0.0,neu,2 times  Bad Customer Service 
+78,1209,5,The sweet potato fries were very good and seasoned well.,0.0,33.300000000000004,66.7,pos,sweet potato fries good seasoned well 
+79,870,5,Today is the second time I've been to their lunch buffet and it was pretty good.,0.0,53.400000000000006,46.6,neu,Today second time ve lunch buffet pretty good 
+80,632,5,There is so much good food in Vegas that I feel cheated for wasting an eating opportunity by going to Rice and Company.,29.0,43.5,27.500000000000004,neu,much good food Vegas feel cheated wasting eating opportunity going Rice Company 
+81,716,5,Coming here is like experiencing an underwhelming relationship where both parties can't wait for the other person to ask to break up.,0.0,67.9,32.1,neu,Coming like experiencing underwhelming relationship parties ca nt wait person ask break 
+82,295,5,walked in and the place smelled like an old grease trap and only 2 others there eating.,16.7,65.2,18.1,neu,walked place smelled like old grease trap 2 others eating 
+83,631,5,The turkey and roast beef were bland.,0.0,100.0,0.0,neu,turkey roast beef bland 
+84,490,5,This place has it!,0.0,100.0,0.0,neu,place 
+85,327,5,The pan cakes everyone are raving about taste like a sugary disaster tailored to the palate of a six year old.,22.0,64.5,13.4,neu,pan cakes everyone raving taste like sugary disaster tailored palate six year old 
+86,1196,5,I love the Pho and the spring rolls oh so yummy you have to try.,0.0,44.1,55.900000000000006,pos,love Pho spring rolls oh yummy try 
+87,716,6,The poor batter to meat ratio made the chicken tenders very unsatisfying.,26.5,59.8,13.7,neu,poor batter meat ratio made chicken tenders unsatisfying 
+88,652,6,All I have to say is the food was amazing!!!,0.0,51.7,48.3,neu,say food amazing   
+89,43,6,Omelets are to die for!,67.7,32.300000000000004,0.0,neg,Omelets die 
+90,76,6,Everything was fresh and delicious!,0.0,24.1,75.9,pos,Everything fresh delicious 
+91,623,6,"In summary, this was a largely disappointing dining experience.",34.8,65.2,0.0,neu,summary  largely disappointing dining experience 
+92,897,6,"It's like a really sexy party in your mouth, where you're outrageously flirting with the hottest person at the party.",9.2,33.5,57.3,pos,s like really sexy party mouth  re outrageously flirting hottest person party 
+93,829,6,"Never been to Hard Rock Casino before, WILL NEVER EVER STEP FORWARD IN IT AGAIN!",0.0,85.0,15.0,neu,Never Hard Rock Casino  NEVER EVER STEP FORWARD 
+94,867,6,Best breakfast buffet!!!,0.0,49.6,50.4,pos,Best breakfast buffet   
+95,472,6,say bye bye to your tip lady!,0.0,100.0,0.0,neu,say bye bye tip lady 
+96,1204,6,We'll never go again.,0.0,100.0,0.0,neu,ll never go 
+97,711,6,Will be back again!,0.0,100.0,0.0,neu,back 
+98,51,7,Food arrived quickly!,0.0,100.0,0.0,neu,Food arrived quickly 
+99,1211,7,It was not good.,0.0,25.6,74.4,pos,good 
+100,131,7,"On the up side, their cafe serves really good food.",0.0,68.7,31.3,neu,side  cafe serves really good food 
+101,59,7,"Our server was fantastic and when he found out the wife loves roasted garlic and bone marrow, he added extra to our meal and another marrow to go!",0.0,66.4,33.6,neu,server fantastic found wife loves roasted garlic bone marrow  added extra meal another marrow go 
+102,77,7,"The only good thing was our waiter, he was very helpful and kept the bloddy mary's coming.",0.0,61.2,38.8,neu,good thing waiter  helpful kept bloddy mary s coming 
+103,716,7,"Best Buffet in town, for the price you cannot beat it.",0.0,58.8,41.2,neu,Best Buffet town  price beat 
+104,84,7,"I LOVED their mussels cooked in this wine reduction, the duck was tender, and their potato dishes were delicious.",0.0,56.89999999999999,43.1,neu,LOVED mussels cooked wine reduction  duck tender  potato dishes delicious 
+105,826,7,This is one of the better buffets that I have been to.,0.0,50.8,49.2,neu,one better buffets 
+106,494,7,So we went to Tigerlilly and had a fantastic afternoon!,0.0,50.7,49.3,neu,went Tigerlilly fantastic afternoon 
+107,583,7,"The food was delicious, our bartender was attentive and personable AND we got a great deal!",0.0,49.7,50.3,pos,food delicious  bartender attentive personable got great deal 
+108,1198,7,The ambience is wonderful and there is music playing.,0.0,35.3,64.7,pos,ambience wonderful music playing 
+109,717,7,Will go back next trip out.,0.0,100.0,0.0,neu,go back next trip 
+110,365,7,Sooooo good!!,0.0,46.3,53.7,pos,Sooooo good  
+111,886,7,"REAL sushi lovers, let's be honest - Yama is not that good.",0.0,45.5,54.50000000000001,pos,REAL sushi lovers  let s honest  Yama good 
+112,491,7,"At least 40min passed in between us ordering and the food arriving, and it wasn't that busy.",0.0,100.0,0.0,neu,least 40min passed us ordering food arriving  nt busy 
+113,609,7,This is a really fantastic Thai restaurant which is definitely worth a visit.,0.0,37.1,62.9,pos,really fantastic Thai restaurant definitely worth visit 
+114,481,7,"Nice, spicy and tender.",0.0,58.8,41.2,neu,Nice  spicy tender 
+115,100,8,Good prices.,0.0,40.8,59.2,pos,Good prices 
+116,95,8,Check it out.,0.0,100.0,0.0,neu,Check 
+117,99,8,It was pretty gross!,40.8,13.2,46.0,pos,pretty gross 
+118,93,8,I've had better atmosphere.,0.0,50.8,49.2,neu,ve better atmosphere 
+119,98,8,Kind of hard to mess up a steak but they did.,41.9,21.5,36.6,neg,Kind hard mess steak 
+120,94,8,"Although I very much liked the look and sound of this place, the actual experience was a bit disappointing.",20.0,62.5,17.5,neu,Although much liked look sound place  actual experience bit disappointing 
+121,94,8,I just don't know how this place managed to served the blandest food I have ever eaten when they are preparing Indian cuisine.,0.0,100.0,0.0,neu,nt know place managed served blandest food ever eaten preparing Indian cuisine 
+122,96,8,"Worst service to boot, but that is the least of their worries.",35.9,43.7,20.4,neu,Worst service boot  least worries 
+123,97,8,Service was fine and the waitress was friendly.,0.0,37.5,62.5,pos,Service fine waitress friendly 
+124,97,8,"The guys all had steaks, and our steak loving son who has had steak at the best and worst places said it was the best steak he's ever eaten.",13.900000000000002,44.2,41.8,neu,guys steaks  steak loving son steak best worst places said best steak s ever eaten 
+125,98,8,"We thought you'd have to venture further away to get good sushi, but this place really hit the spot that night.",0.0,81.8,18.2,neu,thought d venture away get good sushi  place really hit spot night 
+126,98,8,"Host staff were, for lack of a better word, BITCHES!",44.8,37.2,18.0,neg,Host staff  lack better word  BITCHES 
+127,89,8,Bland... Not a liking this place for a number of reasons and I don't want to waste time on bad reviewing.. I'll leave it at that...,26.6,44.9,28.5,neu,Bland  liking place number reasons nt want waste time bad reviewing  ll leave 
+128,97,8,"Phenomenal food, service and ambiance.",0.0,100.0,0.0,neu,Phenomenal food  service ambiance 
+129,102,8,I wouldn't return.,0.0,100.0,0.0,neu,would nt return 
+130,96,8,"Definitely worth venturing off the strip for the pork belly, will return next time I'm in Vegas.",0.0,70.5,29.5,neu,Definitely worth venturing strip pork belly  return next time m Vegas 
+131,89,8,This place is way too overpriced for mediocre food.,0.0,100.0,0.0,neu,place way overpriced mediocre food 
+132,92,8,Penne vodka excellent!,0.0,42.9,57.1,pos,Penne vodka excellent 
+133,90,8,"They have a good selection of food including a massive meatloaf sandwich, a crispy chicken wrap, a delish tuna melt and some tasty burgers.",0.0,85.39999999999999,14.6,neu,good selection food including massive meatloaf sandwich  crispy chicken wrap  delish tuna melt tasty burgers 
+134,167,9,The management is rude.,60.0,40.0,0.0,neg,management rude 
+135,459,9,"Delicious NYC bagels, good selections of cream cheese, real Lox with capers even.",0.0,64.5,35.5,neu,Delicious NYC bagels  good selections cream cheese  real Lox capers even 
+136,501,9,"Great Subway, in fact it's so good when you come here every other Subway will not meet your expectations.",0.0,58.8,41.2,neu,Great Subway  fact s good come every Subway meet expectations 
+137,247,9,I had a seriously solid breakfast here.,32.1,37.7,30.2,neu,seriously solid breakfast 
+138,238,9,This is one of the best bars with food in Vegas.,0.0,54.3,45.7,neu,one best bars food Vegas 
+139,145,9,"He was extremely rude and really, there are so many other restaurants I would love to dine at during a weekend in Vegas.",18.8,57.2,24.0,neu,extremely rude really  many restaurants would love dine weekend Vegas 
+140,134,9,My drink was never empty and he made some really great menu suggestions.,0.0,53.900000000000006,46.1,neu,drink never empty made really great menu suggestions 
+141,133,9,Don't do it!!!!,0.0,100.0,0.0,neu,nt    
+142,603,9,The waiter wasn't helpful or friendly and rarely checked on us.,45.3,54.7,0.0,neu,waiter nt helpful friendly rarely checked us 
+143,244,9,My husband and I ate lunch here and were very disappointed with the food and service.,34.1,65.9,0.0,neu,husband ate lunch disappointed food service 
+144,595,9,And the red curry had so much bamboo shoots and wasn't very tasty to me.,0.0,100.0,0.0,neu,red curry much bamboo shoots nt tasty 
+145,459,9,Nice blanket of moz over top but i feel like this was done to cover up the subpar food.,0.0,53.0,47.0,neu,Nice blanket moz top feel like done cover subpar food 
+146,137,9,The bathrooms are clean and the place itself is well decorated.,0.0,45.5,54.50000000000001,pos,bathrooms clean place well decorated 
+147,431,9,"The menu is always changing, food quality is going down & service is extremely slow.",0.0,100.0,0.0,neu,menu always changing  food quality going  service extremely slow 
+148,142,9,"The service was a little slow , considering that were served by 3 people servers so the food was coming in a slow pace.",0.0,100.0,0.0,neu,service little slow  considering served 3 people servers food coming slow pace 
+149,108,9,I give it 2 thumbs down,0.0,100.0,0.0,neu,give 2 thumbs
+150,660,10,We watched our waiter pay a lot more attention to other tables and ignore us.,35.8,64.2,0.0,neu,watched waiter pay lot attention tables ignore us 
+151,327,10,My fiancÃÂÃÂÃÂÃÂ© and I came in the middle of the day and we were greeted and seated right away.,0.0,81.10000000000001,18.9,neu,fiancÃÂÃÂÃÂÃÂ© came middle day greeted seated right away 
+152,368,10,This is a great restaurant at the Mandalay Bay.,0.0,49.4,50.6,pos,great restaurant Mandalay Bay 
+153,854,10,We waited for forty five minutes in vain.,35.9,64.1,0.0,neu,waited forty five minutes vain 
+154,34,10,Crostini that came with the salad was stale.,0.0,100.0,0.0,neu,Crostini came salad stale 
+155,1079,10,Some highlights : Great quality nigiri here!,0.0,53.2,46.8,neu,highlights  Great quality nigiri 
+156,476,10,the staff is friendly and the joint is always clean.,0.0,40.400000000000006,59.6,pos,staff friendly joint always clean 
+157,47,10,this was a different cut than the piece the other day but still wonderful and tender s well as well flavored.,12.4,41.2,46.5,pos,different cut piece day still wonderful tender well well flavored 
+158,890,10,I ordered the Voodoo pasta and it was the first time I'd had really excellent pasta since going gluten free several years ago.,0.0,67.30000000000001,32.7,neu,ordered Voodoo pasta first time d really excellent pasta since going gluten free several years ago 
+159,888,10,this place is good.,0.0,40.8,59.2,pos,place good 
+160,724,10,"Unfortunately, we must have hit the bakery on leftover day because everything we ordered was STALE.",19.4,80.60000000000001,0.0,neu,Unfortunately  must hit bakery leftover day everything ordered STALE 
+161,860,10,I came back today since they relocated and still not impressed.,0.0,69.3,30.7,neu,came back today since relocated still impressed 
+162,294,10,I was seated immediately.,0.0,100.0,0.0,neu,seated immediately 
+163,81,10,"Their menu is diverse, and reasonably priced.",0.0,100.0,0.0,neu,menu diverse  reasonably priced 
+164,565,10,Avoid at all cost!,55.50000000000001,44.5,0.0,neg,Avoid cost 
+165,132,10,Restaurant is always full but never a wait.,0.0,100.0,0.0,neu,Restaurant always full never wait 
+166,463,10,DELICIOUS!!,0.0,28.5,71.5,pos,DELICIOUS  
+167,356,10,This place is hands-down one of the best places to eat in the Phoenix metro area.,0.0,68.2,31.8,neu,place handsdown one best places eat Phoenix metro area 
+168,289,10,So don't go there if you are looking for good food...,32.5,67.5,0.0,neu,nt go looking good food 
+169,51,10,I've never been treated so bad.,0.0,58.4,41.6,neu,ve never treated bad 
+170,1122,10,Bacon is hella salty.,0.0,100.0,0.0,neu,Bacon hella salty 
+171,479,10,"We also ordered the spinach and avocado salad, the ingredients were sad and the dressing literally had zero taste.",20.5,79.5,0.0,neu,also ordered spinach avocado salad  ingredients sad dressing literally zero taste 
+172,69,10,"This really is how Vegas fine dining used to be, right down to the menus handed to the ladies that have no prices listed.",0.0,85.2,14.8,neu,really Vegas fine dining used  right menus handed ladies prices listed 
+173,496,10,The waitresses are very friendly.,0.0,38.5,61.5,pos,waitresses friendly 
+174,141,11,"Lordy, the Khao Soi is a dish that is not to be missed for curry lovers!",17.1,54.3,28.6,neu,Lordy  Khao Soi dish missed curry lovers 
+175,455,11,Everything on the menu is terrific and we were also thrilled that they made amazing accommodations for our vegetarian daughter.,0.0,44.9,55.1,pos,Everything menu terrific also thrilled made amazing accommodations vegetarian daughter 
+176,242,11,"Perhaps I caught them on an off night judging by the other reviews, but I'm not inspired to go back.",0.0,75.8,24.2,neu,Perhaps caught night judging reviews  m inspired go back 
+177,245,11,The service here leaves a lot to be desired.,0.0,65.60000000000001,34.4,neu,service leaves lot desired 
+178,136,11,"The atmosphere is modern and hip, while maintaining a touch of coziness.",0.0,73.7,26.3,neu,atmosphere modern hip  maintaining touch coziness 
+179,455,11,"Not a weekly haunt, but definitely a place to come back to every once in a while.",21.8,56.49999999999999,21.8,neu,weekly haunt  definitely place come back every 
+180,142,11,We literally sat there for 20 minutes with no one asking to take our order.,0.0,100.0,0.0,neu,literally sat 20 minutes one asking take order 
+181,421,11,"The burger had absolutely no flavor - the meat itself was totally bland, the burger was overcooked and there was no charcoal flavor.",0.0,100.0,0.0,neu,burger absolutely flavor  meat totally bland  burger overcooked charcoal flavor 
+182,601,11,I also decided not to send it back because our waitress looked like she was on the verge of having a heart attack.,17.4,44.9,37.6,neu,also decided send back waitress looked like verge heart attack 
+183,141,11,I dressed up to be treated so rudely!,53.8,46.2,0.0,neg,dressed treated rudely 
+184,244,11,It was probably dirt.,54.50000000000001,45.5,0.0,neg,probably dirt 
+185,601,11,"Love this place, hits the spot when I want something healthy but not lacking in quantity or flavor.",0.0,52.3,47.7,neu,Love place  hits spot want something healthy lacking quantity flavor 
+186,603,11,I ordered the Lemon raspberry ice cocktail which was also incredible.,0.0,100.0,0.0,neu,ordered Lemon raspberry ice cocktail also incredible 
+187,247,11,"The food sucked, which we expected but it sucked more than we could have imagined.",50.0,50.0,0.0,neg,food sucked  expected sucked could imagined 
+188,509,11,Interesting decor.,0.0,42.6,57.4,pos,Interesting decor 
+189,146,11,What I really like there is the crepe station.,0.0,58.9,41.1,neu,really like crepe station 
+190,165,11,"Also were served hot bread and butter, and home made potato chips with bacon bits on top....very original and very good.",0.0,66.7,33.300000000000004,neu,Also served hot bread butter  home made potato chips bacon bits top  original good 
+191,418,11,you can watch them preparing the delicious food!),0.0,55.60000000000001,44.4,neu,watch preparing delicious food  
+192,144,11,Both of the egg rolls were fantastic.,0.0,45.5,54.50000000000001,pos,egg rolls fantastic 
+193,431,11,"When my order arrived, one of the gyros was missing.",26.8,73.2,0.0,neu,order arrived  one gyros missing 
+194,425,11,"I had a salad with the wings, and some ice cream for dessert and left feeling quite satisfied.",0.0,66.2,33.800000000000004,neu,salad wings  ice cream dessert left feeling quite satisfied 
+195,516,12,I'm not really sure how Joey's was voted best hot dog in the Valley by readers of Phoenix Magazine.,0.0,63.9,36.1,neu,m really sure Joey s voted best hot dog Valley readers Phoenix Magazine 
+196,347,12,The best place to go for a tasty bowl of Pho!,0.0,57.2,42.8,neu,best place go tasty bowl Pho 
+197,354,12,The live music on Fridays totally blows.,0.0,100.0,0.0,neu,live music Fridays totally blows 
+198,354,12,I've never been more insulted or felt disrespected.,0.0,43.6,56.39999999999999,pos,ve never insulted felt disrespected 
+199,160,12,Very friendly staff.,0.0,38.5,61.5,pos,friendly staff 
+200,348,12,It is worth the drive.,0.0,51.3,48.7,neu,worth drive 
+201,153,12,"I had heard good things about this place, but it exceeding every hope I could have dreamed of.",0.0,60.8,39.2,neu,heard good things place  exceeding every hope could dreamed 
+202,523,12,Food was great and so was the serivce!,0.0,40.6,59.4,pos,Food great serivce 
+203,440,12,The warm beer didn't help.,31.5,41.9,26.5,neu,warm beer nt help 
+204,148,12,Great brunch spot.,0.0,42.3,57.7,pos,Great brunch spot 
+205,514,12,Service is friendly and inviting.,0.0,26.700000000000003,73.3,pos,Service friendly inviting 
+206,345,12,Very good lunch spot.,0.0,50.8,49.2,neu,good lunch spot 
+207,349,12,I've lived here since 1979 and this was the first (and last) time I've stepped foot into this place.,0.0,100.0,0.0,neu,ve lived since 1979 first  last  time ve stepped foot place 
+208,513,12,The WORST EXPERIENCE EVER.,61.7,38.3,0.0,neg,WORST EXPERIENCE EVER 
+209,340,12,Must have been an off night at this place.,0.0,100.0,0.0,neu,Must night place 
+210,514,12,"The sides are delish - mixed mushrooms, yukon gold puree, white corn - beateous.",0.0,100.0,0.0,neu,sides delish  mixed mushrooms  yukon gold puree  white corn  beateous 
+211,448,12,"If that bug never showed up I would have given a 4 for sure, but on the other side of the wall where this bug was climbing was the kitchen.",0.0,85.0,15.0,neu,bug never showed would given 4 sure  side wall bug climbing kitchen 
+212,346,12,"For about 10 minutes, we we're waiting for her salad when we realized that it wasn't coming any time soon.",0.0,100.0,0.0,neu,10 minutes  re waiting salad realized nt coming time soon 
+213,447,12,My friend loved the salmon tartar.,0.0,29.7,70.3,pos,friend loved salmon tartar 
+214,701,12,Won't go back.,0.0,100.0,0.0,neu,Wo nt go back 
+215,504,13,Extremely Tasty!,0.0,100.0,0.0,neu,Extremely Tasty 
+216,172,13,Waitress was good though!,0.0,48.4,51.6,pos,Waitress good though 
+217,142,13,Soggy and not good.,0.0,40.8,59.2,pos,Soggy good 
+218,141,13,The Jamaican mojitos are delicious.,0.0,44.8,55.2,pos,Jamaican mojitos delicious 
+219,594,13,Which are small and not worth the price.,0.0,61.2,38.8,neu,small worth price 
+220,508,13,the food is rich so order accordingly.,0.0,52.6,47.4,neu,food rich order accordingly 
+221,602,13,"The shower area is outside so you can only rinse, not take a full shower, unless you don't mind being nude for everyone to see!",0.0,100.0,0.0,neu,shower area outside rinse  take full shower  unless nt mind nude everyone see 
+222,421,13,The service was a bit lacking.,0.0,100.0,0.0,neu,service bit lacking 
+223,235,13,"Lobster Bisque, Bussell Sprouts, Risotto, Filet ALL needed salt and pepper..and of course there is none at the tables.",0.0,100.0,0.0,neu,Lobster Bisque  Bussell Sprouts  Risotto  Filet needed salt pepper  course none tables 
+224,118,13,Hopefully this bodes for them going out of business and someone who can cook can come in.,0.0,72.2,27.800000000000004,neu,Hopefully bodes going business someone cook come 
+225,454,13,"It was either too cold, not enough flavor or just bad.",36.8,63.2,0.0,neu,either cold  enough flavor bad 
+226,246,13,I loved the bacon wrapped dates.,0.0,50.6,49.4,neu,loved bacon wrapped dates 
+227,137,13,This is an unbelievable BARGAIN!,0.0,17.8,82.19999999999999,pos,unbelievable BARGAIN 
+228,115,13,The folks at Otto always make us feel so welcome and special.,0.0,55.1,44.9,neu,folks Otto always make us feel welcome special 
+229,508,13,"As for the ""mains,"" also uninspired.",0.0,100.0,0.0,neu, mains   also uninspired 
+230,248,13,This is the place where I first had pho and it was amazing!!,0.0,53.3,46.7,neu,place first pho amazing  
+231,634,14,This wonderful experience made this place a must-stop whenever we are in town again.,0.0,65.4,34.599999999999994,neu,wonderful experience made place muststop whenever town 
+232,184,14,"If the food isn't bad enough for you, then enjoy dealing with the world's worst/annoying drunk people.",13.0,54.2,32.800000000000004,neu,food nt bad enough  enjoy dealing world s worstannoying drunk people 
+233,14,14,Very very fun chef.,0.0,37.7,62.3,pos,fun chef 
+234,232,14,"Ordered a double cheeseburger & got a single patty that was falling apart (picture uploaded) Yeah, still sucks.",19.2,70.39999999999999,10.3,neu,Ordered double cheeseburger  got single patty falling apart  picture uploaded  Yeah  still sucks 
+235,396,14,Great place to have a couple drinks and watch any and all sporting events as the walls are covered with TV's.,0.0,72.8,27.200000000000003,neu,Great place couple drinks watch sporting events walls covered TV s 
+236,187,14,"If it were possible to give them zero stars, they'd have it.",0.0,100.0,0.0,neu,possible give zero stars  d 
+237,229,14,"The descriptions said ""yum yum sauce"" and another said ""eel sauce"", yet another said ""spicy mayo""...well NONE of the rolls had sauces on them.",0.0,92.5,7.5,neu,descriptions said  yum yum sauce  another said  eel sauce   yet another said  spicy mayo   well NONE rolls sauces 
+238,385,14,"I'd say that would be the hardest decision... Honestly, all of M's dishes taste how they are supposed to taste (amazing).",0.0,68.8,31.2,neu,d say would hardest decision  Honestly  s dishes taste supposed taste  amazing  
+239,189,14,If she had not rolled the eyes we may have stayed... Not sure if we will go back and try it again.,0.0,79.60000000000001,20.4,neu,rolled eyes may stayed  sure go back try 
+240,230,14,"Everyone is very attentive, providing excellent customer service.",0.0,65.4,34.599999999999994,neu,Everyone attentive  providing excellent customer service 
+241,20,14,Horrible - don't waste your time and money.,32.300000000000004,46.2,21.5,neu,Horrible  nt waste time money 
+242,229,14,Now this dish was quite flavourful.,0.0,100.0,0.0,neu,dish quite flavourful 
+243,23,14,By this time our side of the restaurant was almost empty so there was no excuse.,20.0,66.4,13.6,neu,time side restaurant almost empty excuse 
+244,17,14,"(It wasn't busy either) Also, the building was FREEZING cold.",17.599999999999998,82.39999999999999,0.0,neu, nt busy either  Also  building FREEZING cold 
+245,226,14,"like the other reviewer said ""you couldn't pay me to eat at this place again.""",0.0,70.3,29.7,neu,like reviewer said  could nt pay eat place  
+246,4,14,-Drinks took close to 30 minutes to come out at one point.,0.0,100.0,0.0,neu,Drinks took close 30 minutes come one point 
+247,7,14,"Seriously flavorful delights, folks.",19.5,46.0,34.5,neu,Seriously flavorful delights  folks 
+248,232,15,Much better than the other AYCE sushi place I went to in Vegas.,0.0,70.7,29.3,neu,Much better AYCE sushi place went Vegas 
+249,179,15,The lighting is just dark enough to set the mood.,0.0,100.0,0.0,neu,lighting dark enough set mood 
+250,10,15,Based on the sub-par service I received and no effort to show their gratitude for my business I won't be going back.,0.0,78.4,21.6,neu,Based subpar service received effort show gratitude business wo nt going back 
+251,12,15,Owner's are really great people.!,0.0,56.2,43.8,neu,Owner s really great people  
+252,637,15,There is nothing privileged about working/eating there.,44.5,55.50000000000001,0.0,neu,nothing privileged workingeating 
+253,394,15,The Greek dressing was very creamy and flavorful.,0.0,100.0,0.0,neu,Greek dressing creamy flavorful 
+254,639,15,"Overall, I don't think that I would take my parents to this place again because they made most of the similar complaints that I silently felt too.",17.2,82.8,0.0,neu,Overall  nt think would take parents place made similar complaints silently felt 
+255,302,15,Now the pizza itself was good the peanut sauce was very tasty.,0.0,63.3,36.7,neu,pizza good peanut sauce tasty 
+256,299,15,We had 7 at our table and the service was pretty fast.,0.0,61.0,39.0,neu,7 table service pretty fast 
+257,179,15,Fantastic service here.,0.0,35.7,64.3,pos,Fantastic service 
+258,643,15,I as well would've given godfathers zero stars if possible.,0.0,79.2,20.8,neu,well would ve given godfathers zero stars possible 
+259,190,15,They know how to make them here.,0.0,100.0,0.0,neu,know make 
+260,635,15,very tough and very short on flavor!,37.4,62.6,0.0,neu,tough short flavor 
+261,233,15,I hope this place sticks around.,0.0,57.99999999999999,42.0,neu,hope place sticks around 
+262,13,15,"I have been in more than a few bars in Vegas, and do not ever recall being charged for tap water.",18.4,81.6,0.0,neu,bars Vegas  ever recall charged tap water 
+263,17,15,The restaurant atmosphere was exquisite.,0.0,100.0,0.0,neu,restaurant atmosphere exquisite 
+264,4,15,"Good service, very clean, and inexpensive, to boot!",0.0,54.3,45.7,neu,Good service  clean  inexpensive  boot 
+265,300,15,The seafood was fresh and generous in portion.,0.0,34.9,65.10000000000001,pos,seafood fresh generous portion 
+266,393,15,"Plus, it's only 8 bucks.",0.0,100.0,0.0,neu,Plus  s 8 bucks 
+267,5,15,"The service was not up to par, either.",0.0,100.0,0.0,neu,service par  either 
+268,309,15,"Thus far, have only visited twice and the food was absolutely delicious each time.",0.0,69.3,30.7,neu,Thus far  visited twice food absolutely delicious time 
+269,772,16,Just as good as when I had it more than a year ago!,0.0,48.4,51.6,pos,good year ago 
+270,1044,16,"For a self proclaimed coffee cafe, I was wildly disappointed.",30.7,69.3,0.0,neu,self proclaimed coffee cafe  wildly disappointed 
+271,760,16,The Veggitarian platter is out of this world!,0.0,100.0,0.0,neu,Veggitarian platter world 
+272,284,16,You cant go wrong with any of the food here.,0.0,61.0,39.0,neu,cant go wrong food 
+273,767,16,You can't beat that.,0.0,100.0,0.0,neu,ca nt beat 
+274,203,16,"Stopped by this place while in Madison for the Ironman, very friendly, kind staff.",12.3,45.2,42.6,neu,Stopped place Madison Ironman  friendly  kind staff 
+275,692,16,The chefs were friendly and did a good job.,0.0,33.0,67.0,pos,chefs friendly good job 
+276,577,16,"I've had better, not only from dedicated boba tea spots, but even from Jenni Pho.",0.0,62.9,37.1,neu,ve better  dedicated boba tea spots  even Jenni Pho 
+277,1047,16,I liked the patio and the service was outstanding.,0.0,30.6,69.39999999999999,pos,liked patio service outstanding 
+278,690,16,The goat taco didn't skimp on the meat and wow what FLAVOR!,32.5,67.5,0.0,neu,goat taco nt skimp meat wow FLAVOR 
+279,684,16,I think not again,0.0,100.0,0.0,neu,think
+280,682,16,I had the mac salad and it was pretty bland so I will not be getting that again.,0.0,61.0,39.0,neu,mac salad pretty bland getting 
+281,575,16,I went to Bachi Burger on a friend's recommendation and was not disappointed.,25.2,48.8,26.0,neu,went Bachi Burger friend s recommendation disappointed 
+282,682,16,Service stinks here!,53.400000000000006,46.6,0.0,neg,Service stinks 
+283,401,17,I waited and waited.,0.0,100.0,0.0,neu,waited waited 
+284,399,17,"This place is not quality sushi, it is not a quality restaurant.",0.0,100.0,0.0,neu,place quality sushi  quality restaurant 
+285,664,17,I would definitely recommend the wings as well as the pizza.,0.0,35.4,64.60000000000001,pos,would definitely recommend wings well pizza 
+286,544,17,Great Pizza and Salads!,0.0,40.6,59.4,pos,Great Pizza Salads 
+287,1248,17,Things that went wrong: - They burned the saganaki.,30.7,69.3,0.0,neu,Things went wrong   burned saganaki 
+288,666,17,We waited an hour for what was a breakfast I could have done 100 times better at home.,0.0,75.6,24.4,neu,waited hour breakfast could done 100 times better home 
+289,673,17,This place is amazing!,0.0,32.800000000000004,67.2,pos,place amazing 
+290,553,17,"I hate to disagree with my fellow Yelpers, but my husband and I were so disappointed with this place.",61.0,39.0,0.0,neg,hate disagree fellow Yelpers  husband disappointed place 
+291,1255,17,Waited 2 hours & never got either of our pizzas as many other around us who came in later did!,0.0,100.0,0.0,neu,Waited 2 hours  never got either pizzas many around us came later 
+292,671,17,Just don't know why they were so slow.,0.0,100.0,0.0,neu,nt know slow 
+293,1247,17,"The staff is great, the food is delish, and they have an incredible beer selection.",0.0,68.7,31.3,neu,staff great  food delish  incredible beer selection 
+294,550,17,"I live in the neighborhood so I am disappointed I won't be back here, because it is a convenient location.",25.6,74.4,0.0,neu,live neighborhood disappointed wo nt back  convenient location 
+295,401,17,I didn't know pulled pork could be soooo delicious.,0.0,65.4,34.599999999999994,neu,nt know pulled pork could soooo delicious 
+296,183,18,"You get incredibly fresh fish, prepared with care.",0.0,39.4,60.6,pos,get incredibly fresh fish  prepared care 
+297,19,18,Before I go in to why I gave a 1 star rating please know that this was my third time eating at Bachi burger before writing a review.,0.0,85.9,14.099999999999998,neu,go gave 1 star rating please know third time eating Bachi burger writing review 
+298,185,18,I love the fact that everything on their menu is worth it.,0.0,39.6,60.4,pos,love fact everything menu worth 
+299,184,18,Never again will I be dining at this place!,0.0,100.0,0.0,neu,Never dining place 
+300,16,18,The food was excellent and service was very good.,0.0,31.2,68.8,pos,food excellent service good 
+301,191,18,Good beer & drink selection and good food selection.,0.0,54.7,45.3,neu,Good beer  drink selection good food selection 
+302,190,18,Please stay away from the shrimp stir fried noodles.,0.0,75.3,24.7,neu,Please stay away shrimp stir fried noodles 
+303,176,18,The potato chip order was sad... I could probably count how many chips were in that box and it was probably around 12.,18.1,81.89999999999999,0.0,neu,potato chip order sad  could probably count many chips box probably around 12 
+304,196,18,Food was really boring.,46.400000000000006,53.6,0.0,neu,Food really boring 
+305,190,18,Good Service-check!,0.0,38.5,61.5,pos,Good Servicecheck 
+306,233,18,This greedy corporation will NEVER see another dime from me!,30.2,69.8,0.0,neu,greedy corporation NEVER see another dime 
+307,198,18,"Will never, ever go back.",0.0,100.0,0.0,neu,never  ever go back 
+308,13,18,"As much as I'd like to go back, I can't get passed the atrocious service and will never return.",0.0,84.8,15.2,neu,much d like go back  ca nt get passed atrocious service never return 
+309,11,18,"In the summer, you can dine in a charming outdoor patio - so very delightful.",0.0,47.9,52.1,pos,summer  dine charming outdoor patio  delightful 
+310,226,18,I did not expect this to be so good!,0.0,38.5,61.5,pos,expect good 
+311,234,18,Fantastic food!,0.0,33.900000000000006,66.10000000000001,pos,Fantastic food 
+312,308,18,She ordered a toasted English muffin that came out untoasted.,0.0,100.0,0.0,neu,ordered toasted English muffin came untoasted 
+313,224,18,The food was very good.,0.0,40.8,59.2,pos,food good 
+314,391,18,Never going back.,0.0,100.0,0.0,neu,Never going back 
+315,387,18,"Great food for the price, which is very high quality and house made.",0.0,66.10000000000001,33.900000000000006,neu,Great food price  high quality house made 
+316,387,18,The bus boy on the other hand was so rude.,32.6,32.6,34.8,pos,bus boy hand rude 
+317,304,18,"By this point, my friends and I had basically figured out this place was a joke and didn't mind making it publicly and loudly known.",0.0,69.39999999999999,30.6,neu,point  friends basically figured place joke nt mind making publicly loudly known 
+318,449,19,"Back to good BBQ, lighter fare, reasonable pricing and tell the public they are back to the old ways.",0.0,82.8,17.2,neu,Back good BBQ  lighter fare  reasonable pricing tell public back old ways 
+319,113,19,"And considering the two of us left there very full and happy for about $20, you just can't go wrong.",0.0,65.7,34.300000000000004,neu,considering two us left full happy  20  ca nt go wrong 
+320,422,19,All the bread is made in-house!,0.0,100.0,0.0,neu,bread made inhouse 
+321,602,19,The only downside is the service.,50.0,50.0,0.0,neg,downside service 
+322,504,19,"Also, the fries are without a doubt the worst fries I've ever had.",28.9,56.3,14.8,neu,Also  fries without doubt worst fries ve ever 
+323,238,19,Service was exceptional and food was a good as all the reviews.,0.0,61.1,38.9,neu,Service exceptional food good reviews 
+324,246,19,"A couple of months later, I returned and had an amazing meal.",0.0,64.8,35.2,neu,couple months later  returned amazing meal 
+325,246,19,Favorite place in town for shawarrrrrrma!!!!!!,0.0,68.30000000000001,31.7,neu,Favorite place town shawarrrrrrma      
+326,419,19,The black eyed peas and sweet potatoes... UNREAL!,0.0,68.0,32.0,neu,black eyed peas sweet potatoes  UNREAL 
+327,239,19,You won't be disappointed.,0.0,54.0,46.0,neu,wo nt disappointed 
+328,502,19,"They could serve it with just the vinaigrette and it may make for a better overall dish, but it was still very good.",0.0,63.3,36.7,neu,could serve vinaigrette may make better overall dish  still good 
+329,595,19,"I go to far too many places and I've never seen any restaurant that serves a 1 egg breakfast, especially for $4.00.",0.0,100.0,0.0,neu,go far many places ve never seen restaurant serves 1 egg breakfast  especially  400 
+330,430,19,When my mom and I got home she immediately got sick and she only had a few bites of salad.,29.2,70.8,0.0,neu,mom got home immediately got sick bites salad 
+331,508,19,The servers are not pleasant to deal with and they don't always honor Pizza Hut coupons.,18.9,57.4,23.7,neu,servers pleasant deal nt always honor Pizza Hut coupons 
+332,427,19,"Both of them were truly unbelievably good, and I am so glad we went back.",0.0,34.8,65.2,pos,truly unbelievably good  glad went back 
+333,507,19,"We had fantastic service, and were pleased by the atmosphere.",0.0,38.1,61.9,pos,fantastic service  pleased atmosphere 
+334,109,19,Everything was gross.,60.8,39.2,0.0,neg,Everything gross 
+335,235,19,I love this place.,0.0,32.300000000000004,67.7,pos,love place 
+336,113,19,Great service and food.,0.0,42.3,57.7,pos,Great service food 
+337,247,19,First - the bathrooms at this location were dirty- Seat covers were not replenished & just plain yucky!!!,35.4,64.60000000000001,0.0,neu,First  bathrooms location dirty Seat covers replenished  plain yucky   
+338,504,19,"The burger... I got the ""Gold Standard"" a $17 burger and was kind of disappointed.",17.7,62.9,19.4,neu,burger  got  Gold Standard   17 burger kind disappointed 
+339,259,20,"OMG, the food was delicioso!",0.0,100.0,0.0,neu,OMG  food delicioso 
+340,255,20,There is nothing authentic about this place.,0.0,100.0,0.0,neu,nothing authentic place 
+341,249,20,the spaghetti is nothing special whatsoever.,36.1,63.9,0.0,neu,spaghetti nothing special whatsoever 
+342,252,20,"Of all the dishes, the salmon was the best, but all were great.",0.0,37.6,62.4,pos,dishes  salmon best  great 
+343,255,20,The vegetables are so fresh and the sauce feels like authentic Thai.,0.0,55.60000000000001,44.4,neu,vegetables fresh sauce feels like authentic Thai 
+344,255,20,It's worth driving up from Tucson!,0.0,64.60000000000001,35.4,neu,s worth driving Tucson 
+345,255,20,The selection was probably the worst I've seen in Vegas.....there was none.,33.900000000000006,66.10000000000001,0.0,neu,selection probably worst ve seen Vegas  none 
+346,255,20,Pretty good beer selection too.,0.0,33.0,67.0,pos,Pretty good beer selection 
+347,258,20,"This place is like Chipotle, but BETTER.",0.0,39.5,60.5,pos,place like Chipotle  BETTER 
+348,256,20,"Classy/warm atmosphere, fun and fresh appetizers, succulent steaks (Baseball steak!!!!!",0.0,68.89999999999999,31.1,neu,Classywarm atmosphere  fun fresh appetizers  succulent steaks  Baseball steak     
+349,255,20,5 stars for the brick oven bread app!,0.0,100.0,0.0,neu,5 stars brick oven bread app 
+350,255,20,"I have eaten here multiple times, and each time the food was delicious.",0.0,65.4,34.599999999999994,neu,eaten multiple times  time food delicious 
+351,255,20,We sat another ten minutes and finally gave up and left.,0.0,100.0,0.0,neu,sat another ten minutes finally gave left 
+352,250,20,He was terrible!,77.2,22.8,0.0,neg,terrible 
+353,249,20,Everyone is treated equally special.,0.0,59.7,40.3,neu,Everyone treated equally special 
+354,259,20,It shouldn't take 30 min for pancakes and eggs.,0.0,100.0,0.0,neu,nt take 30 min pancakes eggs 
+355,250,20,It was delicious!!!,0.0,39.6,60.4,pos,delicious   
+356,255,20,"On the good side, the staff was genuinely pleasant and enthusiastic - a real treat.",0.0,36.6,63.4,pos,good side  staff genuinely pleasant enthusiastic  real treat 
+357,249,20,"Sadly, Gordon Ramsey's Steak is a place we shall sharply avoid during our next trip to Vegas.",29.4,70.6,0.0,neu,Sadly  Gordon Ramsey s Steak place shall sharply avoid next trip Vegas 
+358,261,21,As always the evening was wonderful and the food delicious!,0.0,34.2,65.8,pos,always evening wonderful food delicious 
+359,319,21,Best fish I've ever had in my life!,0.0,52.7,47.3,neu,Best fish ve ever life 
+360,270,21,(The bathroom is just next door and very nice.),0.0,68.2,31.8,neu, bathroom next door nice  
+361,274,21,The buffet is small and all the food they offered was BLAND.,0.0,100.0,0.0,neu,buffet small food offered BLAND 
+362,314,21,This is an Outstanding little restaurant with some of the Best Food I have ever tasted.,0.0,43.1,56.89999999999999,pos,Outstanding little restaurant Best Food ever tasted 
+363,321,21,Pretty cool I would say.,0.0,35.3,64.7,pos,Pretty cool would say 
+364,318,21,Definitely a turn off for me & i doubt I'll be back unless someone else is buying.,17.599999999999998,63.4,19.0,neu,Definitely turn  doubt ll back unless someone else buying 
+365,260,21,Server did a great job handling our large rowdy table.,0.0,63.1,36.9,neu,Server great job handling large rowdy table 
+366,315,21,"I find wasting food to be despicable, but this just wasn't food.",27.800000000000004,72.2,0.0,neu,find wasting food despicable  nt food 
+367,266,21,My wife had the Lobster Bisque soup which was lukewarm.,0.0,100.0,0.0,neu,wife Lobster Bisque soup lukewarm 
+368,312,21,Would come back again if I had a sushi craving while in Vegas.,0.0,100.0,0.0,neu,Would come back sushi craving Vegas 
+369,266,21,"The staff are great, the ambiance is great.",0.0,32.800000000000004,67.2,pos,staff great  ambiance great 
+370,323,21,He deserves 5 stars.,0.0,100.0,0.0,neu,deserves 5 stars 
+371,267,21,I left with a stomach ache and felt sick the rest of the day.,49.6,50.4,0.0,neu,left stomach ache felt sick rest day 
+372,269,21,They dropped more than the ball.,0.0,100.0,0.0,neu,dropped ball 
+373,318,21,"The dining space is tiny, but elegantly decorated and comfortable.",0.0,49.2,50.8,pos,dining space tiny  elegantly decorated comfortable 
+374,268,21,"They will customize your order any way you'd like, my usual is Eggplant with Green Bean stir fry, love it!",0.0,65.0,35.0,neu,customize order way d like  usual Eggplant Green Bean stir fry  love 
+375,319,21,And the beans and rice were mediocre at best.,0.0,48.8,51.2,pos,beans rice mediocre best 
+376,318,21,Best tacos in town by far!!,0.0,51.1,48.9,neu,Best tacos town far  
+377,318,21,I took back my money and got outta there.,0.0,100.0,0.0,neu,took back money got outta 
+378,313,21,"In an interesting part of town, this place is amazing.",0.0,43.5,56.49999999999999,pos,interesting part town  place amazing 
+379,314,21,RUDE & INCONSIDERATE MANAGEMENT.,71.1,28.9,0.0,neg,RUDE  INCONSIDERATE MANAGEMENT 
+380,313,21,"The staff are now not as friendly, the wait times for being served are horrible, no one even says hi for the first 10 minutes.",16.900000000000002,67.60000000000001,15.5,neu,staff friendly  wait times served horrible  one even says hi first 10 minutes 
+381,269,21,I won't be back.,0.0,100.0,0.0,neu,wo nt back 
+382,322,21,They have great dinners.,0.0,32.800000000000004,67.2,pos,great dinners 
+383,260,21,The service was outshining & I definitely recommend the Halibut.,0.0,49.0,51.0,pos,service outshining  definitely recommend Halibut 
+384,1051,22,The food was terrible.,60.8,39.2,0.0,neg,food terrible 
+385,1051,22,WILL NEVER EVER GO BACK AND HAVE TOLD MANY PEOPLE WHAT HAD HAPPENED.,0.0,100.0,0.0,neu,NEVER EVER GO BACK TOLD MANY PEOPLE HAPPENED 
+386,679,22,I don't recommend unless your car breaks down in front of it and you are starving.,45.0,55.00000000000001,0.0,neu,nt recommend unless car breaks front starving 
+387,683,22,I will come back here every time I'm in Vegas.,0.0,100.0,0.0,neu,come back every time m Vegas 
+388,692,22,This place deserves one star and 90% has to do with the food.,0.0,100.0,0.0,neu,place deserves one star 90  food 
+389,568,22,This is a disgrace.,76.2,23.8,0.0,neg,disgrace 
+390,1051,22,Def coming back to bowl next time,0.0,100.0,0.0,neu,Def coming back bowl next time
+391,688,22,"If you want healthy authentic or ethic food, try this place.",0.0,63.6,36.4,neu,want healthy authentic ethic food  try place 
+392,1050,22,I will continue to come here on ladies night andddd date night ... highly recommend this place to anyone who is in the area.,0.0,82.3,17.7,neu,continue come ladies night andddd date night  highly recommend place anyone area 
+393,1047,22,"I have been here several times in the past, and the experience has always been great.",0.0,63.1,36.9,neu,several times past  experience always great 
+394,1049,22,We walked away stuffed and happy about our first Vegas buffet experience.,0.0,68.4,31.6,neu,walked away stuffed happy first Vegas buffet experience 
+395,769,22,Service was excellent and prices are pretty reasonable considering this is Vegas and located inside the Crystals shopping mall by Aria.,0.0,63.5,36.5,neu,Service excellent prices pretty reasonable considering Vegas located inside Crystals shopping mall Aria 
+396,1048,22,"To summarize... the food was incredible, nay, transcendant... but nothing brings me joy quite like the memory of the pneumatic condiment dispenser.",13.4,74.3,12.2,neu,summarize  food incredible  nay  transcendant  nothing brings joy quite like memory pneumatic condiment dispenser 
+397,571,22,I'm probably one of the few people to ever go to Ians and not like it.,0.0,76.2,23.8,neu,m probably one people ever go Ians like 
+398,688,22,Kids pizza is always a hit too with lots of great side dish options for the kiddos!,0.0,69.5,30.5,neu,Kids pizza always hit lots great side dish options kiddos 
+399,580,22,Service is perfect and the family atmosphere is nice to see.,0.0,43.5,56.49999999999999,pos,Service perfect family atmosphere nice see 
+400,279,22,Cooked to perfection and the service was impeccable.,0.0,51.9,48.1,neu,Cooked perfection service impeccable 
+401,127,23,This one is simply a disappointment.,52.400000000000006,47.6,0.0,neg,one simply disappointment 
+402,493,23,"Overall, I was very disappointed with the quality of food at Bouchon.",34.1,65.9,0.0,neu,Overall  disappointed quality food Bouchon 
+403,1192,23,I don't have to be an accountant to know I'm getting screwed!,36.8,63.2,0.0,neu,nt accountant know m getting screwed 
+404,724,23,"Great place to eat, reminds me of the little mom and pop shops in the San Francisco Bay Area.",0.0,76.0,24.0,neu,Great place eat  reminds little mom pop shops San Francisco Bay Area 
+405,662,23,Today was my first taste of a Buldogis Gourmet Hot Dog and I have to tell you it was more than I ever thought possible.,0.0,100.0,0.0,neu,Today first taste Buldogis Gourmet Hot Dog tell ever thought possible 
+406,334,23,Left very frustrated.,63.0,37.0,0.0,neg,Left frustrated 
+407,848,23,I'll definitely be in soon again.,0.0,52.6,47.4,neu,ll definitely soon 
+408,29,23,Food was really good and I got full petty fast.,16.400000000000002,54.6,29.0,neu,Food really good got full petty fast 
+409,87,23,Service was fantastic.,0.0,35.7,64.3,pos,Service fantastic 
+410,624,23,TOTAL WASTE OF TIME.,60.3,39.7,0.0,neg,TOTAL WASTE TIME 
+411,1086,23,I don't know what kind it is but they have the best iced tea.,55.1,44.9,0.0,neg,nt know kind best iced tea 
+412,828,23,"Come hungry, leave happy and stuffed!",11.8,49.1,39.2,neu,Come hungry  leave happy stuffed 
+413,861,23,"For service, I give them no stars.",0.0,100.0,0.0,neu,service  give stars 
+414,42,23,I can assure you that you won't be disappointed.,0.0,37.7,62.3,pos,assure wo nt disappointed 
+415,120,23,I can take a little bad service but the food sucks.,53.3,46.7,0.0,neg,take little bad service food sucks 
+416,119,23,Gave up trying to eat any of the crust (teeth still sore).,21.7,78.3,0.0,neu,Gave trying eat crust  teeth still sore  
+417,633,24,But now I was completely grossed out.,45.8,54.2,0.0,neu,completely grossed 
+418,305,24,I really enjoyed eating here.,0.0,45.5,54.50000000000001,pos,really enjoyed eating 
+419,386,24,First time going but I think I will quickly become a regular.,0.0,100.0,0.0,neu,First time going think quickly become regular 
+420,306,24,"Our server was very nice, and even though he looked a little overwhelmed with all of our needs, he stayed professional and friendly until the end.",5.7,62.9,31.4,neu,server nice  even though looked little overwhelmed needs  stayed professional friendly end 
+421,16,24,From what my dinner companions told me...everything was very fresh with nice texture and taste.,0.0,61.1,38.9,neu,dinner companions told  everything fresh nice texture taste 
+422,393,24,"On the ground, right next to our table was a large, smeared, been-stepped-in-and-tracked-everywhere pile of green bird poop.",0.0,100.0,0.0,neu,ground  right next table large  smeared  beensteppedinandtrackedeverywhere pile green bird poop 
+423,5,24,"Furthermore, you can't even find hours of operation on the website!",0.0,100.0,0.0,neu,Furthermore  ca nt even find hours operation website 
+424,21,24,We've tried to like this place but after 10+ times I think we're done with them.,0.0,78.3,21.7,neu,ve tried like place 10 times think re done 
+425,197,24,What a mistake that was!,72.89999999999999,27.1,0.0,neg,mistake 
+426,231,24,No complaints!,74.9,25.1,0.0,neg,complaints 
+427,199,24,This is some seriously good pizza and I'm an expert/connisseur on the topic.,17.7,52.1,30.2,neu,seriously good pizza m expertconnisseur topic 
+428,303,24,Waiter was a jerk.,54.50000000000001,45.5,0.0,neg,Waiter jerk 
+429,299,24,"Strike 2, who wants to be rushed.",23.1,76.9,0.0,neu,Strike 2  wants rushed 
+430,8,24,These are the nicest restaurant owners I've ever come across.,0.0,68.60000000000001,31.4,neu,nicest restaurant owners ve ever come across 
+431,16,24,I never come again.,0.0,100.0,0.0,neu,never come 
+432,234,24,We loved the biscuits!!!,0.0,45.6,54.400000000000006,pos,loved biscuits   
+433,197,24,Service is quick and friendly.,0.0,48.4,51.6,pos,Service quick friendly 
+434,315,25,Ordered an appetizer and took 40 minutes and then the pizza another 10 minutes.,0.0,100.0,0.0,neu,Ordered appetizer took 40 minutes pizza another 10 minutes 
+435,321,25,So absolutley fantastic.,0.0,35.7,64.3,pos,absolutley fantastic 
+436,318,25,It was a huge awkward 1.5lb piece of cow that was 3/4ths gristle and fat.,14.7,64.2,21.1,neu,huge awkward 15lb piece cow 34ths gristle fat 
+437,318,25,definitely will come back here again.,0.0,52.6,47.4,neu,definitely come back 
+438,317,25,I like Steiners because it's dark and it feels like a bar.,0.0,54.50000000000001,45.5,neu,like Steiners s dark feels like bar 
+439,265,25,Wow very spicy but delicious.,0.0,21.1,78.9,pos,Wow spicy delicious 
+440,263,25,"If you're not familiar, check it out.",0.0,100.0,0.0,neu,re familiar  check 
+441,315,25,I'll take my business dinner dollars elsewhere.,0.0,100.0,0.0,neu,ll take business dinner dollars elsewhere 
+442,320,25,I'd love to go back.,0.0,48.8,51.2,pos,d love go back 
+443,269,25,"Anyway, this FS restaurant has a wonderful breakfast/lunch.",0.0,61.9,38.1,neu,Anyway  FS restaurant wonderful breakfastlunch 
+444,266,25,Nothing special.,53.0,47.0,0.0,neg,Nothing special 
+445,266,25,Each day of the week they have a different deal and it's all so delicious!,0.0,60.0,40.0,neu,day week different deal s delicious 
+446,313,25,"Not to mention the combination of pears, almonds and bacon is a big winner!",0.0,66.2,33.800000000000004,neu,mention combination pears  almonds bacon big winner 
+447,264,25,Will not be back.,0.0,100.0,0.0,neu,back 
+448,267,25,Sauce was tasteless.,0.0,100.0,0.0,neu,Sauce tasteless 
+449,315,25,"The food is delicious and just spicy enough, so be sure to ask for spicier if you prefer it that way.",0.0,60.0,40.0,neu,food delicious spicy enough  sure ask spicier prefer way 
+450,317,25,My ribeye steak was cooked perfectly and had great mesquite flavor.,0.0,42.0,57.99999999999999,pos,ribeye steak cooked perfectly great mesquite flavor 
+451,269,25,I don't think we'll be going back anytime soon.,0.0,100.0,0.0,neu,nt think ll going back anytime soon 
+452,325,25,Food was so gooodd.,0.0,100.0,0.0,neu,Food gooodd 
+453,325,25,I am far from a sushi connoisseur but I can definitely tell the difference between good food and bad food and this was certainly bad food.,29.2,37.5,33.300000000000004,neu,far sushi connoisseur definitely tell difference good food bad food certainly bad food 
+454,262,25,I was so insulted.,76.7,23.3,0.0,neg,insulted 
+455,262,25,The last 3 times I had lunch here has been bad.,41.2,58.8,0.0,neu,last 3 times lunch bad 
+456,320,25,The chicken wings contained the driest chicken meat I have ever eaten.,0.0,100.0,0.0,neu,chicken wings contained driest chicken meat ever eaten 
+457,260,25,"The food was very good and I enjoyed every mouthful, an enjoyable relaxed venue for couples small family groups etc.",0.0,47.2,52.8,pos,food good enjoyed every mouthful  enjoyable relaxed venue couples small family groups etc 
+458,621,26,Nargile - I think you are great.,0.0,49.4,50.6,pos,Nargile  think great 
+459,69,26,Best tater tots in the southwest.,0.0,48.8,51.2,pos,Best tater tots southwest 
+460,27,26,We loved the place.,0.0,33.900000000000006,66.10000000000001,pos,loved place 
+461,710,26,Definitely not worth the $3 I paid.,0.0,46.5,53.5,pos,Definitely worth  3 paid 
+462,332,26,The vanilla ice cream was creamy and smooth while the profiterole (choux) pastry was fresh enough.,0.0,74.8,25.2,neu,vanilla ice cream creamy smooth profiterole  choux  pastry fresh enough 
+463,1213,26,Im in AZ all the time and now have my new spot.,0.0,100.0,0.0,neu,Im AZ time new spot 
+464,613,26,The manager was the worst.,67.2,32.800000000000004,0.0,neg,manager worst 
+465,726,26,The inside is really quite nice and very clean.,0.0,37.7,62.3,pos,inside really quite nice clean 
+466,58,26,The food was outstanding and the prices were very reasonable.,0.0,50.0,50.0,neu,food outstanding prices reasonable 
+467,360,26,I don't think I'll be running back to Carly's anytime soon for food.,0.0,100.0,0.0,neu,nt think ll running back Carly s anytime soon food 
+468,1210,26,"This is was due to the fact that it took 20 minutes to be acknowledged, then another 35 minutes to get our food...and they kept forgetting things.",0.0,100.0,0.0,neu,due fact took 20 minutes acknowledged  another 35 minutes get food  kept forgetting things 
+469,860,26,"Love the margaritas, too!",0.0,40.0,60.0,pos,Love margaritas  
+470,72,26,This was my first and only Vegas buffet and it did not disappoint.,40.3,59.7,0.0,neu,first Vegas buffet disappoint 
+471,1078,26,"Very good, though!",0.0,48.4,51.6,pos,good  though 
+472,337,26,The one down note is the ventilation could use some upgrading.,0.0,100.0,0.0,neu,one note ventilation could use upgrading 
+473,38,26,Great pork sandwich.,0.0,42.3,57.7,pos,Great pork sandwich 
+474,1215,26,Don't waste your time here.,0.0,56.3,43.7,neu,nt waste time 
+475,153,27,"Total letdown, I would much rather just go to the Camelback Flower Shop and Cartel Coffee.",0.0,100.0,0.0,neu,Total letdown  would much rather go Camelback Flower Shop Cartel Coffee 
+476,434,27,"Third, the cheese on my friend's burger was cold.",0.0,68.60000000000001,31.4,neu,Third  cheese friend s burger cold 
+477,523,27,We enjoy their pizza and brunch.,0.0,48.4,51.6,pos,enjoy pizza brunch 
+478,699,27,The steaks are all well trimmed and also perfectly cooked.,0.0,44.2,55.8,pos,steaks well trimmed also perfectly cooked 
+479,511,27,We had a group of 70+ when we claimed we would only have 40 and they handled us beautifully.,0.0,68.4,31.6,neu,group 70 claimed would 40 handled us beautifully 
+480,704,27,I LOVED it!,0.0,16.900000000000002,83.1,pos,LOVED 
+481,697,27,We asked for the bill to leave without eating and they didn't bring that either.,13.0,87.0,0.0,neu,asked bill leave without eating nt bring either 
+482,158,27,"This place is a jewel in Las Vegas, and exactly what I've been hoping to find in nearly ten years living here.",0.0,69.39999999999999,30.6,neu,place jewel Las Vegas  exactly ve hoping find nearly ten years living 
+483,344,27,Seafood was limited to boiled shrimp and crab legs but the crab legs definitely did not taste fresh.,11.9,56.6,31.4,neu,Seafood limited boiled shrimp crab legs crab legs definitely taste fresh 
+484,153,27,The selection of food was not the best.,0.0,41.7,58.3,pos,selection food best 
+485,516,27,Delicious and I will absolutely be back!,0.0,42.9,57.1,pos,Delicious absolutely back 
+486,161,27,"This isn't a small family restaurant, this is a fine dining establishment.",0.0,81.6,18.4,neu,nt small family restaurant  fine dining establishment 
+487,697,27,They had a toro tartare with a cavier that was extraordinary and I liked the thinly sliced wagyu with white truffle.,0.0,78.10000000000001,21.9,neu,toro tartare cavier extraordinary liked thinly sliced wagyu white truffle 
+488,698,27,I dont think I will be back for a very long time.,0.0,100.0,0.0,neu,dont think back long time 
+489,517,27,"It was attached to a gas station, and that is rarely a good sign.",25.6,74.4,0.0,neu,attached gas station  rarely good sign 
+490,155,27,How awesome is that.,0.0,19.6,80.4,pos,awesome 
+491,448,27,I will be back many times soon.,0.0,100.0,0.0,neu,back many times soon 
+492,148,27,The menu had so much good stuff on it i could not decide!,0.0,65.3,34.7,neu,menu much good stuff could decide 
+493,697,27,"Worse of all, he humiliated his worker right in front of me..Bunch of horrible name callings.",50.0,50.0,0.0,neg,Worse  humiliated worker right front  Bunch horrible name callings 
+494,447,27,CONCLUSION: Very filling meals.,0.0,100.0,0.0,neu,CONCLUSION  filling meals 
+495,438,27,Their daily specials are always a hit with my group.,0.0,100.0,0.0,neu,daily specials always hit group 
+496,524,27,And then tragedy struck.,86.5,13.5,0.0,neg,tragedy struck 
+497,854,28,The pancake was also really good and pretty large at that.,0.0,42.8,57.2,pos,pancake also really good pretty large 
+498,856,28,"This was my first crawfish experience, and it was delicious!",0.0,55.60000000000001,44.4,neu,first crawfish experience  delicious 
+499,125,28,Their monster chicken fried steak and eggs is my all time favorite.,0.0,70.0,30.0,neu,monster chicken fried steak eggs time favorite 
+500,829,28,Waitress was sweet and funny.,0.0,25.3,74.7,pos,Waitress sweet funny 
+501,1076,28,"I also had to taste my Mom's multi-grain pumpkin pancakes with pecan butter and they were amazing, fluffy, and delicious!",0.0,62.5,37.5,neu,also taste Mom s multigrain pumpkin pancakes pecan butter amazing  fluffy  delicious 
+502,851,28,"I'd rather eat airline food, seriously.",19.5,80.5,0.0,neu,d rather eat airline food  seriously 
+503,42,28,Cant say enough good things about this place.,28.6,71.39999999999999,0.0,neu,Cant say enough good things place 
+504,62,28,The ambiance was incredible.,0.0,100.0,0.0,neu,ambiance incredible 
+505,656,28,The waitress and manager are so friendly.,0.0,48.4,51.6,pos,waitress manager friendly 
+506,632,28,I would not recommend this place.,0.0,54.50000000000001,45.5,neu,would recommend place 
+507,661,28,Overall I wasn't very impressed with Noca.,39.0,61.0,0.0,neu,Overall nt impressed Noca 
+508,474,28,My gyro was basically lettuce only.,0.0,100.0,0.0,neu,gyro basically lettuce 
+509,125,28,Terrible service!,62.9,37.1,0.0,neg,Terrible service 
+510,371,29,Thoroughly disappointed!,64.8,35.2,0.0,neg,Thoroughly disappointed 
+511,374,29,"I don't each much pasta, but I love the homemade /hand made pastas and thin pizzas here.",0.0,57.49999999999999,42.5,neu,nt much pasta  love homemade hand made pastas thin pizzas 
+512,374,29,"Give it a try, you will be happy you did.",0.0,51.9,48.1,neu,Give try  happy 
+513,380,29,By far the BEST cheesecurds we have ever had!,0.0,43.4,56.6,pos,far BEST cheesecurds ever 
+514,379,29,Reasonably priced also!,0.0,100.0,0.0,neu,Reasonably priced also 
+515,372,29,Everything was perfect the night we were in.,0.0,44.8,55.2,pos,Everything perfect night 
+516,381,29,The food is very good for your typical bar food.,0.0,63.3,36.7,neu,food good typical bar food 
+517,381,29,it was a drive to get there.,0.0,100.0,0.0,neu,drive get 
+518,374,29,"At first glance it is a lovely bakery cafe - nice ambiance, clean, friendly staff.",0.0,44.4,55.60000000000001,pos,first glance lovely bakery cafe  nice ambiance  clean  friendly staff 
+519,372,29,"Anyway, I do not think i will go back there.",0.0,100.0,0.0,neu,Anyway  think go back 
+520,382,29,"Point your finger at any item on the menu, order it and you won't be disappointed.",0.0,77.9,22.1,neu,Point finger item menu  order wo nt disappointed 
+521,378,29,"Oh this is such a thing of beauty, this restaurant.",0.0,56.8,43.2,neu,Oh thing beauty  restaurant 
+522,381,29,If you haven't gone here GO NOW!,0.0,100.0,0.0,neu,nt gone GO 
+523,380,29,"A greasy, unhealthy meal.",45.9,54.1,0.0,neu,greasy  unhealthy meal 
+524,372,29,first time there and might just be the last.,0.0,100.0,0.0,neu,first time might last 
+525,383,29,Those burgers were amazing.,0.0,34.5,65.5,pos,burgers amazing 
+526,383,29,"Similarly, the delivery man did not say a word of apology when our food was 45 minutes late.",0.0,90.2,9.8,neu,Similarly  delivery man say word apology food 45 minutes late 
+527,381,29,And it was way to expensive.,0.0,100.0,0.0,neu,way expensive 
+528,381,29,"Be sure to order dessert, even if you need to pack it to-go - the tiramisu and cannoli are both to die for.",22.7,64.0,13.4,neu,sure order dessert  even need pack togo  tiramisu cannoli die 
+529,181,30,This was my first time and I can't wait until the next.,0.0,100.0,0.0,neu,first time ca nt wait next 
+530,177,30,The bartender was also nice.,0.0,51.7,48.3,neu,bartender also nice 
+531,23,30,Everything was good and tasty!,0.0,48.4,51.6,pos,Everything good tasty 
+532,23,30,This place is two thumbs up....way up.,0.0,100.0,0.0,neu,place two thumbs  way 
+533,14,30,"The best place in Vegas for breakfast (just check out a Sat, or Sun.",0.0,68.2,31.8,neu,best place Vegas breakfast  check Sat  Sun 
+534,302,30,"If you love authentic Mexican food and want a whole bunch of interesting, yet delicious meats to choose from, you need to try this place.",0.0,54.1,45.9,neu,love authentic Mexican food want whole bunch interesting  yet delicious meats choose  need try place 
+535,176,30,Terrible management.,60.8,39.2,0.0,neg,Terrible management 
+536,2,30,An excellent new restaurant by an experienced Frenchman.,0.0,57.49999999999999,42.5,neu,excellent new restaurant experienced Frenchman 
+537,309,30,If there were zero stars I would give it zero stars.,0.0,100.0,0.0,neu,zero stars would give zero stars 
+538,633,30,"Great steak, great sides, great wine, amazing desserts.",0.0,33.2,66.8,pos,Great steak  great sides  great wine  amazing desserts 
+539,187,30,Worst martini ever!,59.4,40.6,0.0,neg,Worst martini ever 
+540,304,30,The steak and the shrimp are in my opinion the best entrees at GC.,0.0,58.8,41.2,neu,steak shrimp opinion best entrees GC 
+541,193,30,I had the opportunity today to sample your amazing pizzas!,0.0,36.7,63.3,pos,opportunity today sample amazing pizzas 
+542,226,30,We waited for thirty minutes to be seated (although there were 8 vacant tables and we were the only folks waiting).,0.0,100.0,0.0,neu,waited thirty minutes seated  although 8 vacant tables folks waiting  
+543,309,30,The yellowtail carpaccio was melt in your mouth fresh.,0.0,68.5,31.5,neu,yellowtail carpaccio melt mouth fresh 
+544,1247,31,I won't try going back there even if it's empty.,18.4,81.6,0.0,neu,wo nt try going back even s empty 
+545,669,31,"No, I'm going to eat the potato that I found some strangers hair in it.",0.0,100.0,0.0,neu, m going eat potato found strangers hair 
+546,543,31,Just spicy enough.. Perfect actually.,0.0,57.49999999999999,42.5,neu,spicy enough  Perfect actually 
+547,553,31,Last night was my second time dining here and I was so happy I decided to go back!,0.0,69.3,30.7,neu,Last night second time dining happy decided go back 
+548,674,31,"not even a ""hello, we will be right with you.""",0.0,100.0,0.0,neu,even  hello  right  
+549,542,31,The desserts were a bit strange.,37.5,62.5,0.0,neu,desserts bit strange 
+550,555,31,My boyfriend and I came here for the first time on a recent trip to Vegas and could not have been more pleased with the quality of food and service.,0.0,80.5,19.5,neu,boyfriend came first time recent trip Vegas could pleased quality food service 
+551,397,31,"I really do recommend this place, you can go wrong with this donut place!",25.7,53.1,21.2,neu,really recommend place  go wrong donut place 
+552,1248,31,Nice ambiance.,0.0,41.7,58.3,pos,Nice ambiance 
+553,542,31,I would recommend saving room for this!,0.0,58.9,41.1,neu,would recommend saving room 
+554,1254,31,I guess maybe we went on an off night but it was disgraceful.,0.0,100.0,0.0,neu,guess maybe went night disgraceful 
+555,1252,31,"However, my recent experience at this particular location was not so good.",0.0,70.7,29.3,neu,However  recent experience particular location good 
+556,398,31,"I know this is not like the other restaurants at all, something is very off here!",0.0,64.2,35.8,neu,know like restaurants  something 
+557,675,31,AVOID THIS ESTABLISHMENT!,61.7,38.3,0.0,neg,AVOID ESTABLISHMENT 
+558,1251,31,I think this restaurant suffers from not trying hard enough.,47.4,52.6,0.0,neu,think restaurant suffers trying hard enough 
+559,547,31,All of the tapas dishes were delicious!,0.0,42.9,57.1,pos,tapas dishes delicious 
+560,545,31,I *heart* this place.,0.0,48.8,51.2,pos, heart  place 
+561,1245,31,My salad had a bland vinegrette on the baby greens and hearts of Palm.,0.0,61.9,38.1,neu,salad bland vinegrette baby greens hearts Palm 
+562,397,31,After two I felt disgusting.,53.1,46.9,0.0,neg,two felt disgusting 
+563,546,31,A good time!,0.0,38.5,61.5,pos,good time 
+564,668,31,I believe that this place is a great stop for those with a huge belly and hankering for sushi.,15.1,41.1,43.8,pos,believe place great stop huge belly hankering sushi 
+565,411,32,Generous portions and great taste.,0.0,28.8,71.2,pos,Generous portions great taste 
+566,412,32,I will never go back to this place and will never ever recommended this place to anyone!,17.299999999999997,82.69999999999999,0.0,neu,never go back place never ever recommended place anyone 
+567,409,32,"The servers went back and forth several times, not even so much as an ""Are you being helped?""",0.0,100.0,0.0,neu,servers went back forth several times  even much  helped  
+568,408,32,Food was delicious!,0.0,33.4,66.60000000000001,pos,Food delicious 
+569,408,32,AN HOUR... seriously?,36.2,63.8,0.0,neu,HOUR  seriously 
+570,415,32,I consider this theft.,0.0,100.0,0.0,neu,consider theft 
+571,412,32,Eew... This location needs a complete overhaul.,0.0,100.0,0.0,neu,Eew  location needs complete overhaul 
+572,409,32,We recently witnessed her poor quality of management towards other guests as well.,25.4,57.4,17.2,neu,recently witnessed poor quality management towards guests well 
+573,416,32,Waited and waited and waited.,0.0,100.0,0.0,neu,Waited waited waited 
+574,411,32,"He also came back to check on us regularly, excellent service.",0.0,70.89999999999999,29.1,neu,also came back check us regularly  excellent service 
+575,115,33,Our server was super nice and checked on us many times.,0.0,47.2,52.8,pos,server super nice checked us many times 
+576,238,33,"The pizza tasted old, super chewy in not a good way.",0.0,50.7,49.3,neu,pizza tasted old  super chewy good way 
+577,601,33,I swung in to give them a try but was deeply disappointed.,40.400000000000006,59.6,0.0,neu,swung give try deeply disappointed 
+578,143,33,Service was good and the company was better!,0.0,33.0,67.0,pos,Service good company better 
+579,236,33,The staff are also very friendly and efficient.,0.0,33.300000000000004,66.7,pos,staff also friendly efficient 
+580,508,33,"As for the service: I'm a fan, because it's quick and you're being served by some nice folks.",0.0,66.2,33.800000000000004,neu,service  m fan  s quick re served nice folks 
+581,602,33,Boy was that sucker dry!!.,44.3,55.7,0.0,neu,Boy sucker dry   
+582,510,33,Over rated.,0.0,100.0,0.0,neu,rated 
+583,417,33,"If you look for authentic Thai food, go else where.",0.0,100.0,0.0,neu,look authentic Thai food  go else 
+584,425,33,Their steaks are 100% recommended!,0.0,65.7,34.300000000000004,neu,steaks 100  recommended 
+585,171,33,After I pulled up my car I waited for another 15 minutes before being acknowledged.,0.0,100.0,0.0,neu,pulled car waited another 15 minutes acknowledged 
+586,235,33,Great food and great service in a clean and friendly setting.,0.0,22.1,77.9,pos,Great food great service clean friendly setting 
+587,111,33,"All in all, I can assure you I'll be back.",0.0,62.5,37.5,neu, assure ll back 
+588,169,33,I hate those things as much as cheap quality black olives.,34.599999999999994,65.4,0.0,neu,hate things much cheap quality black olives 
+589,454,33,"My breakfast was perpared great, with a beautiful presentation of 3 giant slices of Toast, lightly dusted with powdered sugar.",0.0,63.6,36.4,neu,breakfast perpared great  beautiful presentation 3 giant slices Toast  lightly dusted powdered sugar 
+590,141,33,The kids play area is NASTY!,46.1,29.9,23.9,neg,kids play area NASTY 
+591,246,33,Great place fo take out or eat in.,0.0,54.900000000000006,45.1,neu,Great place fo take eat 
+592,602,33,The waitress was friendly and happy to accomodate for vegan/veggie options.,0.0,42.0,57.99999999999999,pos,waitress friendly happy accomodate veganveggie options 
+593,429,33,OMG I felt like I had never eaten Thai food until this dish.,0.0,76.2,23.8,neu,OMG felt like never eaten Thai food dish 
+594,505,33,"It was extremely ""crumby"" and pretty tasteless.",0.0,65.2,34.8,neu,extremely  crumby  pretty tasteless 
+595,603,33,It was a pale color instead of nice and char and has NO flavor.,0.0,68.2,31.8,neu,pale color instead nice char flavor 
+596,511,34,The croutons also taste homemade which is an extra plus.,0.0,100.0,0.0,neu,croutons also taste homemade extra plus 
+597,345,34,I got home to see the driest damn wings ever!,29.9,70.1,0.0,neu,got home see driest damn wings ever 
+598,696,34,It'll be a regular stop on my trips to Phoenix!,33.300000000000004,66.7,0.0,neu,ll regular stop trips Phoenix 
+599,700,34,I really enjoyed Crema CafÃÂÃÂÃÂÃÂ© before they expanded. I even told friends they had the BEST breakfast.,0.0,46.2,53.8,pos,really enjoyed Crema CafÃÂÃÂÃÂÃÂ© expanded  even told friends BEST breakfast 
+600,438,34,Not good for the money.,0.0,40.8,59.2,pos,good money 
+601,433,34,I miss it and wish they had one in Philadelphia!,21.1,39.5,39.4,neu,miss wish one Philadelphia 
+602,151,34,"We got sitting fairly fast, but, ended up waiting 40 minutes just to place our order, another 30 minutes before the food arrived.",0.0,100.0,0.0,neu,got sitting fairly fast   ended waiting 40 minutes place order  another 30 minutes food arrived 
+603,156,34,They also have the best cheese crisp in town.,0.0,54.3,45.7,neu,also best cheese crisp town 
+604,434,34,"Good value, great food, great service.",0.0,27.0,73.0,pos,Good value  great food  great service 
+605,441,34,Couldn't ask for a more satisfying meal.,33.2,66.8,0.0,neu,Could nt ask satisfying meal 
+606,344,34,The food is good.,0.0,40.8,59.2,pos,food good 
+607,704,34,It was awesome.,0.0,19.6,80.4,pos,awesome 
+608,445,34,I just wanted to leave.,37.5,62.5,0.0,neu,wanted leave 
+609,435,34,We made the drive all the way from North Scottsdale... and I was not one bit disappointed!,27.4,72.6,0.0,neu,made drive way North Scottsdale  one bit disappointed 
+610,434,34,I will not be eating there again.,0.0,100.0,0.0,neu,eating 
+611,524,34,!....THE OWNERS REALLY REALLY need to quit being soooooo cheap let them wrap my freaking sandwich in two papers not one!,17.5,82.5,0.0,neu,  OWNERS REALLY REALLY need quit soooooo cheap let wrap freaking sandwich two papers one 
+612,151,34,I checked out this place a couple years ago and was not impressed.,0.0,65.9,34.1,neu,checked place couple years ago impressed 
+613,520,34,"The chicken I got was definitely reheated and was only ok, the wedges were cold and soggy.",0.0,62.0,38.0,neu,chicken got definitely reheated ok  wedges cold soggy 
+614,513,34,"Sorry, I will not be getting food from here anytime soon :(",15.7,84.3,0.0,neu,Sorry  getting food anytime soon  
+615,437,34,An absolute must visit!,0.0,100.0,0.0,neu,absolute must visit 
+616,153,34,The cow tongue and cheek tacos are amazing.,0.0,56.8,43.2,neu,cow tongue cheek tacos amazing 
+617,437,34,My friend did not like his Bloody Mary.,27.4,18.9,53.8,pos,friend like Bloody Mary 
+618,147,34,"Despite how hard I rate businesses, its actually rare for me to give a 1 star.",0.0,88.5,11.5,neu,Despite hard rate businesses  actually rare give 1 star 
+619,174,35,They really want to make your experience a good one.,0.0,52.7,47.3,neu,really want make experience good one 
+620,165,35,I will not return.,0.0,100.0,0.0,neu,return 
+621,593,35,I had the chicken Pho and it tasted very bland.,0.0,100.0,0.0,neu,chicken Pho tasted bland 
+622,603,35,Very disappointing!!!,57.6,42.4,0.0,neg,disappointing   
+623,141,35,The grilled chicken was so tender and yellow from the saffron seasoning.,0.0,100.0,0.0,neu,grilled chicken tender yellow saffron seasoning 
+624,237,35,"a drive thru means you do not want to wait around for half an hour for your food, but somehow when we end up going here they make us wait and wait.",0.0,92.9,7.1,neu,drive thru means want wait around half hour food  somehow end going make us wait wait 
+625,419,35,Pretty awesome place.,0.0,21.5,78.5,pos,Pretty awesome place 
+626,430,35,Ambience is perfect.,0.0,35.099999999999994,64.9,pos,Ambience perfect 
+627,117,35,Best of luck to the rude and non-customer service focused new management.,16.900000000000002,28.1,55.1,pos,Best luck rude noncustomer service focused new management 
+628,510,35,Any grandmother can make a roasted chicken better than this one.,0.0,67.4,32.6,neu,grandmother make roasted chicken better one 
+629,142,35,I asked multiple times for the wine list and after some time of being ignored I went to the hostess and got one myself.,17.299999999999997,82.69999999999999,0.0,neu,asked multiple times wine list time ignored went hostess got one 
+630,171,35,"The staff is always super friendly and helpful, which is especially cool when you bring two small boys and a baby!",0.0,43.9,56.10000000000001,pos,staff always super friendly helpful  especially cool bring two small boys baby 
+631,507,35,Four stars for the food & the guy in the blue shirt for his great vibe & still letting us in to eat !,0.0,76.1,23.9,neu,Four stars food  guy blue shirt great vibe  still letting us eat 
+632,166,35,The roast beef sandwich tasted really good!,0.0,63.3,36.7,neu,roast beef sandwich tasted really good 
+633,505,35,"Same evening, him and I are both drastically sick.",45.2,54.8,0.0,neu,evening  drastically sick 
+634,141,35,High-quality chicken on the chicken Caesar salad.,0.0,100.0,0.0,neu,Highquality chicken chicken Caesar salad 
+635,117,35,Ordered burger rare came in we'll done.,0.0,100.0,0.0,neu,Ordered burger rare came ll done 
+636,246,35,We were promptly greeted and seated.,0.0,58.8,41.2,neu,promptly greeted seated 
+637,137,35,Tried to go here for lunch and it was a madhouse.,0.0,100.0,0.0,neu,Tried go lunch madhouse 
+638,167,35,"I was proven dead wrong by this sushi bar, not only because the quality is great, but the service is fast and the food, impeccable.",31.5,51.1,17.4,neu,proven dead wrong sushi bar  quality great  service fast food  impeccable 
+639,173,35,"After waiting an hour and being seated, I was not in the greatest of moods.",0.0,58.8,41.2,neu,waiting hour seated  greatest moods 
+640,508,35,This is a good joint.,0.0,40.8,59.2,pos,good joint 
+641,431,35,The Macarons here are insanely good.,0.0,50.8,49.2,neu,Macarons insanely good 
+642,592,35,I'm not eating here!,0.0,100.0,0.0,neu,m eating 
+643,589,36,"Our waiter was very attentive, friendly, and informative.",0.0,65.2,34.8,neu,waiter attentive  friendly  informative 
+644,492,36,Maybe if they weren't cold they would have been somewhat edible.,0.0,100.0,0.0,neu,Maybe nt cold would somewhat edible 
+645,69,36,This place has a lot of promise but fails to deliver.,30.8,44.0,25.3,neu,place lot promise fails deliver 
+646,1084,36,Very bad Experience!,65.5,34.5,0.0,neg,bad Experience 
+647,490,36,What a mistake.,70.6,29.4,0.0,neg,mistake 
+648,864,36,Food was average at best.,0.0,41.7,58.3,pos,Food average best 
+649,851,36,Great food.,0.0,32.800000000000004,67.2,pos,Great food 
+650,336,36,We won't be going back anytime soon!,0.0,100.0,0.0,neu,wo nt going back anytime soon 
+651,890,36,Very Very Disappointed ordered the $35 Big Bay Plater.,30.7,69.3,0.0,neu,Disappointed ordered  35 Big Bay Plater 
+652,894,36,Great place to relax and have an awesome burger and beer.,0.0,26.5,73.5,pos,Great place relax awesome burger beer 
+653,723,36,It is PERFECT for a sit-down family meal or get together with a few friends.,0.0,44.3,55.7,pos,PERFECT sitdown family meal get together friends 
+654,830,36,"Not much flavor to them, and very poorly constructed.",0.0,100.0,0.0,neu,much flavor  poorly constructed 
+655,464,36,The patio seating was very comfortable.,0.0,47.6,52.400000000000006,pos,patio seating comfortable 
+656,1191,36,The fried rice was dry as well.,0.0,65.60000000000001,34.4,neu,fried rice dry well 
+657,295,36,Hands down my favorite Italian restaurant!,0.0,54.900000000000006,45.1,neu,Hands favorite Italian restaurant 
+658,556,36,"That just SCREAMS ""LEGIT"" in my book...somethat's also pretty rare here in Vegas.",17.1,64.2,18.7,neu,SCREAMS  LEGIT  book  somethat s also pretty rare Vegas 
+659,26,37,It was just not a fun experience.,0.0,37.7,62.3,pos,fun experience 
+660,650,37,The atmosphere was great with a lovely duo of violinists playing songs we requested.,0.0,38.2,61.8,pos,atmosphere great lovely duo violinists playing songs requested 
+661,60,37,"I personally love the hummus, pita, baklava, falafels and Baba Ganoush (it's amazing what they do with eggplant!).",12.7,56.2,31.1,neu,personally love hummus  pita  baklava  falafels Baba Ganoush  s amazing eggplant   
+662,652,37,"Very convenient, since we were staying at the MGM!",0.0,100.0,0.0,neu,convenient  since staying MGM 
+663,41,37,The owners are super friendly and the staff is courteous.,0.0,22.4,77.60000000000001,pos,owners super friendly staff courteous 
+664,864,37,Both great!,0.0,18.5,81.5,pos,great 
+665,1204,37,Eclectic selection.,0.0,100.0,0.0,neu,Eclectic selection 
+666,659,37,The sweet potato tots were good but the onion rings were perfection or as close as I have had.,0.0,38.5,61.5,pos,sweet potato tots good onion rings perfection close 
+667,625,37,The staff was very attentive.,0.0,100.0,0.0,neu,staff attentive 
+668,588,37,And the chef was generous with his time (even came around twice so we can take pictures with him).,0.0,76.9,23.1,neu,chef generous time  even came around twice take pictures  
+669,624,37,"The owner used to work at Nobu, so this place is really similar for half the price.",0.0,100.0,0.0,neu,owner used work Nobu  place really similar half price 
+670,893,37,Google mediocre and I imagine Smashburger will pop up.,0.0,100.0,0.0,neu,Google mediocre imagine Smashburger pop 
+671,79,37,dont go here.,0.0,100.0,0.0,neu,dont go 
+672,616,37,I promise they won't disappoint.,0.0,39.7,60.3,pos,promise wo nt disappoint 
+673,49,37,As a sushi lover avoid this place by all means.,22.0,40.0,38.0,neu,sushi lover avoid place means 
+674,52,37,What a great double cheeseburger!,0.0,40.6,59.4,pos,great double cheeseburger 
+675,864,37,Awesome service and food.,0.0,42.3,57.7,pos,Awesome service food 
+676,1214,37,A fantastic neighborhood gem !!!,0.0,52.8,47.2,neu,fantastic neighborhood gem   
+677,726,38,I can't wait to go back.,0.0,100.0,0.0,neu,ca nt wait go back 
+678,288,38,The plantains were the worst I've ever tasted.,45.1,54.900000000000006,0.0,neu,plantains worst ve ever tasted 
+679,128,38,It's a great place and I highly recommend it.,0.0,36.7,63.3,pos,s great place highly recommend 
+680,484,38,Service was slow and not attentive.,0.0,100.0,0.0,neu,Service slow attentive 
+681,28,38,"I gave it 5 stars then, and I'm giving it 5 stars now.",0.0,76.9,23.1,neu,gave 5 stars  m giving 5 stars 
+682,494,38,Your staff spends more time talking to themselves than me.,0.0,100.0,0.0,neu,staff spends time talking 
+683,469,38,Dessert: Panna Cotta was amazing.,0.0,56.8,43.2,neu,Dessert  Panna Cotta amazing 
+684,583,38,"Very good food, great atmosphere.1",0.0,30.0,70.0,pos,good food  great atmosphere1
+685,365,38,Damn good steak.,35.5,26.3,38.2,pos,Damn good steak 
+686,1209,38,Total brunch fail.,55.7,44.3,0.0,neg,Total brunch fail 
+687,721,38,"Prices are very reasonable, flavors are spot on, the sauce is home made, and the slaw is not drenched in mayo.",0.0,80.7,19.3,neu,Prices reasonable  flavors spot  sauce home made  slaw drenched mayo 
+688,499,38,"The decor is nice, and the piano music soundtrack is pleasant.",0.0,49.6,50.4,pos,decor nice  piano music soundtrack pleasant 
+689,894,38,The steak was amazing...rge fillet relleno was the best seafood plate i have ever had!,0.0,52.0,48.0,neu,steak amazing  rge fillet relleno best seafood plate ever 
+690,1198,38,"Good food , good service .",0.0,40.8,59.2,pos,Good food  good service 
+691,612,38,It was absolutely amazing.,0.0,32.800000000000004,67.2,pos,absolutely amazing 
+692,619,38,"I probably won't be back, to be honest.",31.1,68.89999999999999,0.0,neu,probably wo nt back  honest 
+693,1120,38,will definitely be back!,0.0,40.1,59.9,pos,definitely back 
+694,243,39,The sergeant pepper beef sandwich with auju sauce is an excellent sandwich as well.,0.0,57.99999999999999,42.0,neu,sergeant pepper beef sandwich auju sauce excellent sandwich well 
+695,451,39,"Hawaiian Breeze, Mango Magic, and Pineapple Delight are the smoothies that I've tried so far and they're all good.",0.0,65.7,34.300000000000004,neu,Hawaiian Breeze  Mango Magic  Pineapple Delight smoothies ve tried far re good 
+696,428,39,Went for lunch - service was slow.,0.0,100.0,0.0,neu,Went lunch  service slow 
+697,607,39,"We had so much to say about the place before we walked in that he expected it to be amazing, but was quickly disappointed.",20.8,53.7,25.5,neu,much say place walked expected amazing  quickly disappointed 
+698,174,39,I was mortified.,0.0,100.0,0.0,neu,mortified 
+699,174,39,"Needless to say, we will never be back here again.",0.0,100.0,0.0,neu,Needless say  never back 
+700,174,39,"Anyways, The food was definitely not filling at all, and for the price you pay you should expect more.",11.6,66.10000000000001,22.3,neu,Anyways  food definitely filling  price pay expect 
+701,423,39,"The chips that came out were dripping with grease, and mostly not edible.",0.0,100.0,0.0,neu,chips came dripping grease  mostly edible 
+702,170,39,I wasn't really impressed with Strip Steak.,35.7,64.3,0.0,neu,nt really impressed Strip Steak 
+703,594,39,Have been going since 2007 and every meal has been awesome!!,0.0,59.9,40.1,neu,going since 2007 every meal awesome  
+704,452,39,Our server was very nice and attentive as were the other serving staff.,0.0,64.1,35.9,neu,server nice attentive serving staff 
+705,239,39,The cashier was friendly and even brought the food out to me.,0.0,61.0,39.0,neu,cashier friendly even brought food 
+706,454,39,I work in the hospitality industry in Paradise Valley and have refrained from recommending Cibo any longer.,0.0,68.2,31.8,neu,work hospitality industry Paradise Valley refrained recommending Cibo longer 
+707,108,39,The atmosphere here is fun.,0.0,37.7,62.3,pos,atmosphere fun 
+708,146,39,Would not recommend to others.,0.0,54.50000000000001,45.5,neu,Would recommend others 
+709,605,39,"Service is quick and even ""to go"" orders are just like we like it!",0.0,60.2,39.8,neu,Service quick even  go  orders like like 
+710,247,39,"I mean really, how do you get so famous for your fish and chips when it's so terrible!?!",25.1,74.9,0.0,neu,mean really  get famous fish chips s terrible   
+711,106,39,"That said, our mouths and bellies were still quite pleased.",0.0,68.7,31.3,neu,said  mouths bellies still quite pleased 
+712,245,39,Not my thing.,0.0,100.0,0.0,neu,thing 
+713,420,39,2 Thumbs Up!!,0.0,100.0,0.0,neu,2 Thumbs  
+714,242,39,If you are reading this please don't go there.,0.0,63.5,36.5,neu,reading please nt go 
+715,239,39,"I loved the grilled pizza, reminded me of legit Italian pizza.",0.0,67.2,32.800000000000004,neu,loved grilled pizza  reminded legit Italian pizza 
+716,592,39,Only Pros : Large seating area/ Nice bar area/ Great simple drink menu/ The BEST brick oven pizza with homemade dough!,0.0,56.89999999999999,43.1,neu,Pros  Large seating area Nice bar area Great simple drink menu BEST brick oven pizza homemade dough 
+717,247,39,They have a really nice atmosphere.,0.0,49.2,50.8,pos,really nice atmosphere 
+718,457,39,Tonight I had the Elk Filet special...and it sucked.,28.000000000000004,46.7,25.2,neu,Tonight Elk Filet special  sucked 
+719,511,40,"After one bite, I was hooked.",0.0,100.0,0.0,neu,one bite  hooked 
+720,435,40,We ordered some old classics and some new dishes after going there a few times and were sorely disappointed with everything.,23.7,76.3,0.0,neu,ordered old classics new dishes going times sorely disappointed everything 
+721,340,40,"Cute, quaint, simple, honest.",0.0,48.8,51.2,pos,Cute  quaint  simple  honest 
+722,160,40,The chicken was deliciously seasoned and had the perfect fry on the outside and moist chicken on the inside.,0.0,54.8,45.2,neu,chicken deliciously seasoned perfect fry outside moist chicken inside 
+723,511,40,"The food was great as always, compliments to the chef.",0.0,42.4,57.6,pos,food great always  compliments chef 
+724,524,40,Special thanks to Dylan T. for the recommendation on what to order :) All yummy for my tummy.,0.0,47.1,52.900000000000006,pos,Special thanks Dylan T recommendation order   yummy tummy 
+725,446,40,Awesome selection of beer.,0.0,42.3,57.7,pos,Awesome selection beer 
+726,348,40,Great food and awesome service!,0.0,26.1,73.9,pos,Great food awesome service 
+727,701,40,"One nice thing was that they added gratuity on the bill since our party was larger than 6 or 8, and they didn't expect more tip than that.",0.0,71.8,28.2,neu,One nice thing added gratuity bill since party larger 6 8  nt expect tip 
+728,704,40,A FLY was in my apple juice.. A FLY!!!!!!!!,0.0,100.0,0.0,neu,FLY apple juice  FLY        
+729,444,40,The Han Nan Chicken was also very tasty.,0.0,100.0,0.0,neu,Han Nan Chicken also tasty 
+730,155,40,"As for the service, I thought it was good.",0.0,57.99999999999999,42.0,neu,service  thought good 
+731,521,40,"The food was barely lukewarm, so it must have been sitting waiting for the server to bring it out to us.",0.0,100.0,0.0,neu,food barely lukewarm  must sitting waiting server bring us 
+732,435,40,Ryan's Bar is definitely one Edinburgh establishment I won't be revisiting.,0.0,78.7,21.3,neu,Ryan s Bar definitely one Edinburgh establishment wo nt revisiting 
+733,517,40,Nicest Chinese restaurant I've been in a while.,0.0,55.60000000000001,44.4,neu,Nicest Chinese restaurant ve 
+734,442,40,"Overall, I like there food and the service.",0.0,66.7,33.300000000000004,neu,Overall  like food service 
+735,440,40,They also now serve Indian naan bread with hummus and some spicy pine nut sauce that was out of this world.,0.0,100.0,0.0,neu,also serve Indian naan bread hummus spicy pine nut sauce world 
+736,147,40,"Probably never coming back, and wouldn't recommend it.",20.9,79.10000000000001,0.0,neu,Probably never coming back  would nt recommend 
+737,530,41,"Friend's pasta -- also bad, he barely touched it.",23.8,54.400000000000006,21.8,neu,Friend s pasta  also bad  barely touched 
+738,526,41,"Try them in the airport to experience some tasty food and speedy, friendly service.",0.0,73.8,26.200000000000003,neu,Try airport experience tasty food speedy  friendly service 
+739,530,41,I love the decor with the Chinese calligraphy wall paper.,0.0,58.8,41.2,neu,love decor Chinese calligraphy wall paper 
+740,530,41,Never had anything to complain about here.,0.0,58.7,41.3,neu,Never anything complain 
+741,526,41,The restaurant is very clean and has a family restaurant feel to it.,0.0,64.9,35.099999999999994,neu,restaurant clean family restaurant feel 
+742,528,41,It was way over fried.,0.0,100.0,0.0,neu,way fried 
+743,537,41,I'm not sure how long we stood there but it was long enough for me to begin to feel awkwardly out of place.,16.900000000000002,66.2,16.900000000000002,neu,m sure long stood long enough begin feel awkwardly place 
+744,529,41,"When I opened the sandwich, I was impressed, but not in a good way.",0.0,50.0,50.0,neu,opened sandwich  impressed  good way 
+745,525,41,Will not be back!,0.0,100.0,0.0,neu,back 
+746,528,41,There was a warm feeling with the service and I felt like their guest for a special treat.,0.0,26.1,73.9,pos,warm feeling service felt like guest special treat 
+747,530,41,An extensive menu provides lots of options for breakfast.,0.0,100.0,0.0,neu,extensive menu provides lots options breakfast 
+748,537,41,"I always order from the vegetarian menu during dinner, which has a wide array of options to choose from.",0.0,100.0,0.0,neu,always order vegetarian menu dinner  wide array options choose 
+749,529,41,"I have watched their prices inflate, portions get smaller and management attitudes grow rapidly!",0.0,100.0,0.0,neu,watched prices inflate  portions get smaller management attitudes grow rapidly 
+750,530,41,Wonderful lil tapas and the ambience made me feel all warm and fuzzy inside.,0.0,58.8,41.2,neu,Wonderful lil tapas ambience made feel warm fuzzy inside 
+751,530,41,"I got to enjoy the seafood salad, with a fabulous vinegrette.",0.0,47.6,52.400000000000006,pos,got enjoy seafood salad  fabulous vinegrette 
+752,529,41,"The wontons were thin, not thick and chewy, almost melt in your mouth.",0.0,100.0,0.0,neu,wontons thin  thick chewy  almost melt mouth 
+753,529,41,"Level 5 spicy was perfect, where spice didn't over-whelm the soup.",0.0,70.89999999999999,29.1,neu,Level 5 spicy perfect  spice nt overwhelm soup 
+754,534,41,We were sat right on time and our server from the get go was FANTASTIC!,0.0,60.2,39.8,neu,sat right time server get go FANTASTIC 
+755,532,41,"Main thing I didn't enjoy is that the crowd is of older crowd, around mid 30s and up.",19.3,80.7,0.0,neu,Main thing nt enjoy crowd older crowd  around mid 30s 
+756,539,41,"When I'm on this side of town, this will definitely be a spot I'll hit up again!",0.0,72.8,27.200000000000003,neu,m side town  definitely spot ll hit 
+757,526,41,I had to wait over 30 minutes to get my drink and longer to get 2 arepas.,0.0,100.0,0.0,neu,wait 30 minutes get drink longer get 2 arepas 
+758,529,41,This is a GREAT place to eat!,0.0,36.9,63.1,pos,GREAT place eat 
+759,1250,42,The jalapeno bacon is soooo good.,0.0,57.99999999999999,42.0,neu,jalapeno bacon soooo good 
+760,399,42,The service was poor and thats being nice.,34.8,33.7,31.5,neg,service poor thats nice 
+761,541,42,"Food was good, service was good, Prices were good.",0.0,40.8,59.2,pos,Food good  service good  Prices good 
+762,545,42,The place was not clean and the food oh so stale!,0.0,62.6,37.4,neu,place clean food oh stale 
+763,216,42,"The chicken dishes are OK, the beef is like shoe leather.",0.0,56.3,43.7,neu,chicken dishes OK  beef like shoe leather 
+764,214,42,But the service was beyond bad.,53.8,46.2,0.0,neg,service beyond bad 
+765,214,42,"I'm so happy to be here!!!""",0.0,52.2,47.8,neu,m happy    
+766,399,42,Tasted like dirt.,34.8,29.0,36.2,pos,Tasted like dirt 
+767,402,42,One of the few places in Phoenix that I would definately go back to again .,0.0,100.0,0.0,neu,One places Phoenix would definately go back 
+768,552,42,The block was amazing.,37.7,13.0,49.4,pos,block amazing 
+769,217,42,"It's close to my house, it's low-key, non-fancy, affordable prices, good food.",0.0,82.8,17.2,neu,s close house  s lowkey  nonfancy  affordable prices  good food 
+770,677,42,* Both the Hot & Sour & the Egg Flower Soups were absolutely 5 Stars!,0.0,100.0,0.0,neu, Hot  Sour  Egg Flower Soups absolutely 5 Stars 
+771,1248,42,My sashimi was poor quality being soggy and tasteless.,38.3,61.7,0.0,neu,sashimi poor quality soggy tasteless 
+772,664,42,Great time - family dinner on a Sunday night.,0.0,63.1,36.9,neu,Great time  family dinner Sunday night 
+773,398,42,"the food is not tasty at all, not to say its ""real traditional Hunan style"".",0.0,100.0,0.0,neu,food tasty  say  real traditional Hunan style  
+774,405,42,"What did bother me, was the slow service.",37.5,62.5,0.0,neu,bother  slow service 
+775,1245,42,The flair bartenders are absolutely amazing!,0.0,47.7,52.3,pos,flair bartenders absolutely amazing 
+776,399,42,Their frozen margaritas are WAY too sugary for my taste.,0.0,100.0,0.0,neu,frozen margaritas WAY sugary taste 
+777,829,43,These were so good we ordered them twice.,0.0,50.8,49.2,neu,good ordered twice 
+778,69,43,So in a nutshell: 1) The restaraunt smells like a combination of a dirty fish market and a sewer.,17.7,67.10000000000001,15.2,neu,nutshell  1  restaraunt smells like combination dirty fish market sewer 
+779,463,43,My girlfriend's veal was very bad.,46.7,53.3,0.0,neu,girlfriend s veal bad 
+780,356,43,"Unfortunately, it was not good.",32.9,27.4,39.7,pos,Unfortunately  good 
+781,584,43,I had a pretty satifying experience.,0.0,48.4,51.6,pos,pretty satifying experience 
+782,1129,43,Join the club and get awesome offers via email.,0.0,48.8,51.2,pos,Join club get awesome offers via email 
+783,120,43,"Perfect for someone (me) who only likes beer ice cold, or in this case, even colder.",0.0,64.9,35.099999999999994,neu,Perfect someone   likes beer ice cold  case  even colder 
+784,621,43,Bland and flavorless is a good way of describing the barely tepid meat.,0.0,73.4,26.6,neu,Bland flavorless good way describing barely tepid meat 
+785,53,43,"The chains, which I'm no fan of, beat this place easily.",0.0,59.8,40.2,neu,chains  m fan  beat place easily 
+786,567,43,The nachos are a MUST HAVE!,0.0,100.0,0.0,neu,nachos MUST 
+787,497,43,We will not be coming back.,0.0,100.0,0.0,neu,coming back 
+788,1075,43,"I don't have very many words to say about this place, but it does everything pretty well.",0.0,60.2,39.8,neu,nt many words say place  everything pretty well 
+789,61,43,"The staff is super nice and very quick even with the crazy crowds of the downtown juries, lawyers, and court staff.",11.4,56.89999999999999,31.8,neu,staff super nice quick even crazy crowds downtown juries  lawyers  court staff 
+790,326,43,"Great atmosphere, friendly and fast service.",0.0,40.7,59.3,pos,Great atmosphere  friendly fast service 
+791,1199,43,When I received my Pita it was huge it did have a lot of meat in it so thumbs up there.,31.8,46.7,21.5,neu,received Pita huge lot meat thumbs 
+792,29,43,Once your food arrives it's meh.,24.5,75.5,0.0,neu,food arrives s meh 
+793,724,43,Paying $7.85 for a hot dog and fries that looks like it came out of a kid's meal at the Wienerschnitzel is not my idea of a good meal.,0.0,73.5,26.5,neu,Paying  785 hot dog fries looks like came kid s meal Wienerschnitzel idea good meal 
+794,360,43,The classic Maine Lobster Roll was fantastic.,0.0,58.1,41.9,neu,classic Maine Lobster Roll fantastic 
+795,338,43,"My brother in law who works at the mall ate here same day, and guess what he was sick all night too.",24.8,75.2,0.0,neu,brother law works mall ate day  guess sick night 
+796,466,43,So good I am going to have to review this place twice - once hereas a tribute to the place and once as a tribute to an event held here last night.,0.0,82.8,17.2,neu,good going review place twice  hereas tribute place tribute event held last night 
+797,618,43,"The chips and salsa were really good, the salsa was very fresh.",0.0,52.2,47.8,neu,chips salsa really good  salsa fresh 
+798,626,43,This place is great!!!!!!!!!!!!!!,0.0,74.0,26.0,neu,place great              
+799,615,43,Mediocre food.,0.0,100.0,0.0,neu,Mediocre food 
+800,627,43,Once you get inside you'll be impressed with the place.,0.0,61.7,38.3,neu,get inside ll impressed place 
+801,464,43,I'm super pissd.,0.0,43.5,56.49999999999999,pos,m super pissd 
+802,337,43,And service was super friendly.,0.0,22.0,78.0,pos,service super friendly 
+803,58,43,Why are these sad little vegetables so overcooked?,43.7,56.3,0.0,neu,sad little vegetables overcooked 
+804,132,43,This place was such a nice surprise!,0.0,27.800000000000004,72.2,pos,place nice surprise 
+805,124,43,They were golden-crispy and delicious.,0.0,35.099999999999994,64.9,pos,goldencrispy delicious 
+806,37,43,"I had high hopes for this place since the burgers are cooked over a charcoal grill, but unfortunately the taste fell flat, way flat.",11.9,74.3,13.900000000000002,neu,high hopes place since burgers cooked charcoal grill  unfortunately taste fell flat  way flat 
+807,1197,43,I could eat their bruschetta all day it is devine.,0.0,100.0,0.0,neu,could eat bruschetta day devine 
+808,679,44,Not a single employee came out to see if we were OK or even needed a water refill once they finally served us our food.,0.0,81.6,18.4,neu,single employee came see OK even needed water refill finally served us food 
+809,686,44,"Lastly, the mozzarella sticks, they were the best thing we ordered.",0.0,65.60000000000001,34.4,neu,Lastly  mozzarella sticks  best thing ordered 
+810,768,44,"The first time I ever came here I had an amazing experience, I still tell people how awesome the duck was.",0.0,58.2,41.8,neu,first time ever came amazing experience  still tell people awesome duck 
+811,574,44,The server was very negligent of our needs and made us feel very unwelcome... I would not suggest this place!,21.4,78.60000000000001,0.0,neu,server negligent needs made us feel unwelcome  would suggest place 
+812,285,44,The service was terrible though.,50.8,49.2,0.0,neg,service terrible though 
+813,763,44,"This place is overpriced, not consistent with their boba, and it really is OVERPRICED!",0.0,100.0,0.0,neu,place overpriced  consistent boba  really OVERPRICED 
+814,1049,44,It was packed!!,0.0,100.0,0.0,neu,packed  
+815,1051,44,I love this place.,0.0,32.300000000000004,67.7,pos,love place 
+816,573,44,I can say that the desserts were yummy.,0.0,46.9,53.1,pos,say desserts yummy 
+817,208,44,The food was terrible.,60.8,39.2,0.0,neg,food terrible 
+818,575,44,The seasonal fruit was fresh white peach puree.,0.0,72.3,27.700000000000003,neu,seasonal fruit fresh white peach puree 
+819,284,44,It kept getting worse and worse so now I'm officially done.,50.8,49.2,0.0,neg,kept getting worse worse m officially done 
+820,203,44,This place should honestly be blown up.,0.0,50.0,50.0,neu,place honestly blown 
+821,205,44,But I definitely would not eat here again.,0.0,52.6,47.4,neu,definitely would eat 
+822,281,44,Do not waste your money here!,60.7,39.3,0.0,neg,waste money 
+823,682,44,I love that they put their food in nice plastic containers as opposed to cramming it in little paper takeout boxes.,0.0,61.1,38.9,neu,love put food nice plastic containers opposed cramming little paper takeout boxes 
+824,580,44,The crÃÂÃÂÃÂÃÂªpe was delicate and thin and moist.,0.0,76.9,23.1,neu,crÃÂÃÂÃÂÃÂªpe delicate thin moist 
+825,281,44,Awful service.,60.0,40.0,0.0,neg,Awful service 
+826,770,44,Won't ever go here again.,0.0,100.0,0.0,neu,Wo nt ever go 
+827,206,44,Food quality has been horrible.,53.8,46.2,0.0,neg,Food quality horrible 
+828,206,44,For that price I can think of a few place I would have much rather gone.,0.0,100.0,0.0,neu,price think place would much rather gone 
+829,209,44,The service here is fair at best.,0.0,23.5,76.5,pos,service fair best 
+830,772,44,"I do love sushi, but I found Kabuki to be over-priced, over-hip and under-services.",0.0,68.2,31.8,neu,love sushi  found Kabuki overpriced  overhip underservices 
+831,692,44,Do yourself a favor and stay away from this dish.,0.0,59.7,40.3,neu,favor stay away dish 
+832,858,45,Very poor service.,60.8,39.2,0.0,neg,poor service 
+833,496,45,No one at the table thought the food was above average or worth the wait that we had for it.,0.0,78.7,21.3,neu,one table thought food average worth wait 
+834,493,45,"Best service and food ever, Maria our server was so good and friendly she made our day.",0.0,46.6,53.400000000000006,pos,Best service food ever  Maria server good friendly made day 
+835,365,45,They were excellent.,0.0,21.3,78.7,pos,excellent 
+836,356,45,I paid the bill but did not tip because I felt the server did a terrible job.,30.7,69.3,0.0,neu,paid bill tip felt server terrible job 
+837,889,45,Just had lunch here and had a great experience.,0.0,42.3,57.7,pos,lunch great experience 
+838,614,45,I have never had such bland food which surprised me considering the article we read focused so much on their spices and flavor.,11.7,70.1,18.2,neu,never bland food surprised considering article read focused much spices flavor 
+839,1195,45,Food is way overpriced and portions are fucking small.,0.0,100.0,0.0,neu,Food way overpriced portions fucking small 
+840,367,45,I recently tried Caballero's and I have been back every week since!,0.0,100.0,0.0,neu,recently tried Caballero s back every week since 
+841,720,45,"for 40 bucks a head, i really expect better food.",0.0,71.6,28.4,neu,40 bucks head  really expect better food 
+842,67,45,The food came out at a good pace.,0.0,57.99999999999999,42.0,neu,food came good pace 
+843,628,45,"I ate there twice on my last visit, and especially enjoyed the salmon salad.",0.0,71.5,28.5,neu,ate twice last visit  especially enjoyed salmon salad 
+844,860,45,I won't be back.,0.0,100.0,0.0,neu,wo nt back 
+845,728,45,We could not believe how dirty the oysters were!,44.4,55.60000000000001,0.0,neu,could believe dirty oysters 
+846,479,45,This place deserves no stars.,0.0,100.0,0.0,neu,place deserves stars 
+847,617,45,I would not recommend this place.,0.0,54.50000000000001,45.5,neu,would recommend place 
+848,592,46,"In fact I'm going to round up to 4 stars, just because she was so awesome.",0.0,66.10000000000001,33.900000000000006,neu,fact m going round 4 stars  awesome 
+849,134,46,"To my disbelief, each dish qualified as the worst version of these foods I have ever tasted.",31.3,68.7,0.0,neu,disbelief  dish qualified worst version foods ever tasted 
+850,501,46,"Bad day or not, I have a very low tolerance for rude customer service people, it is your job to be nice and polite, wash dishes otherwise!!",32.6,49.7,17.7,neu,Bad day  low tolerance rude customer service people  job nice polite  wash dishes otherwise  
+851,172,46,the potatoes were great and so was the biscuit.,0.0,42.3,57.7,pos,potatoes great biscuit 
+852,602,46,I probably would not go here again.,0.0,100.0,0.0,neu,probably would go 
+853,167,46,So flavorful and has just the perfect amount of heat.,0.0,51.9,48.1,neu,flavorful perfect amount heat 
+854,111,46,The price is reasonable and the service is great.,0.0,49.4,50.6,pos,price reasonable service great 
+855,168,46,"The Wife hated her meal (coconut shrimp), and our friends really did not enjoy their meals, either.",18.4,52.6,28.9,neu,Wife hated meal  coconut shrimp   friends really enjoy meals  either 
+856,117,46,My fella got the huevos rancheros and they didn't look too appealing.,0.0,100.0,0.0,neu,fella got huevos rancheros nt look appealing 
+857,430,46,"Went in for happy hour, great list of wines.",0.0,43.5,56.49999999999999,pos,Went happy hour  great list wines 
+858,145,46,Some may say this buffet is pricey but I think you get what you pay for and this place you are getting quite a lot!,13.3,86.7,0.0,neu,may say buffet pricey think get pay place getting quite lot 
+859,507,46,I probably won't be coming back here.,0.0,100.0,0.0,neu,probably wo nt coming back 
+860,163,46,Worst food/service I've had in a while.,57.7,42.3,0.0,neg,Worst foodservice ve 
+861,163,46,"This place is pretty good, nice little vibe in the restaurant.",0.0,40.3,59.7,pos,place pretty good  nice little vibe restaurant 
+862,118,46,Talk about great customer service of course we will be back.,0.0,59.4,40.6,neu,Talk great customer service course back 
+863,418,46,"Hot dishes are not hot, cold dishes are close to room temp.I watched staff prepare food with BARE HANDS, no gloves.Everything is deep fried in oil.",0.0,100.0,0.0,neu,Hot dishes hot  cold dishes close room tempI watched staff prepare food BARE HANDS  glovesEverything deep fried oil 
+864,118,46,I love their fries and their beans.,0.0,41.7,58.3,pos,love fries beans 
+865,505,46,Always a pleasure dealing with him.,0.0,44.8,55.2,pos,Always pleasure dealing 
+866,162,46,"They have a plethora of salads and sandwiches, and everything I've tried gets my seal of approval.",0.0,76.3,23.7,neu,plethora salads sandwiches  everything ve tried gets seal approval 
+867,142,46,This place is awesome if you want something light and healthy during the summer.,0.0,38.2,61.8,pos,place awesome want something light healthy summer 
+868,504,46,"For sushi on the Strip, this is the place to go.",0.0,100.0,0.0,neu,sushi Strip  place go 
+869,459,46,"The service was great, even the manager came and helped with our table.",0.0,66.10000000000001,33.900000000000006,neu,service great  even manager came helped table 
+870,463,47,The feel of the dining room was more college cooking course than high class dining and the service was slow at best.,0.0,74.1,25.9,neu,feel dining room college cooking course high class dining service slow best 
+871,727,47,"I started this review with two stars, but I'm editing it to give it only one.",0.0,100.0,0.0,neu,started review two stars  m editing give one 
+872,1125,47,this is the worst sushi i have ever eat besides Costco's.,36.9,63.1,0.0,neu,worst sushi ever eat besides Costco s 
+873,657,47,"All in all an excellent restaurant highlighted by great service, a unique menu, and a beautiful setting.",0.0,43.5,56.49999999999999,pos,excellent restaurant highlighted great service  unique menu  beautiful setting 
+874,1078,47,My boyfriend and i sat at the bar and had a completely delightful experience.,0.0,59.4,40.6,neu,boyfriend sat bar completely delightful experience 
+875,483,47,Weird vibe from owners.,36.2,63.8,0.0,neu,Weird vibe owners 
+876,68,47,There was hardly any meat.,0.0,100.0,0.0,neu,hardly meat 
+877,479,47,I've had better bagels from the grocery store.,0.0,63.3,36.7,neu,ve better bagels grocery store 
+878,853,47,Go To Place for Gyros.,0.0,100.0,0.0,neu,Go Place Gyros 
+879,473,47,"I love the owner/chef, his one authentic Japanese cool dude!",0.0,50.8,49.2,neu,love ownerchef  one authentic Japanese cool dude 
+880,298,47,"Now the burgers aren't as good, the pizza which used to be amazing is doughy and flavorless.",16.900000000000002,56.3,26.700000000000003,neu,burgers nt good  pizza used amazing doughy flavorless 
+881,724,47,I found a six inch long piece of wire in my salsa.,0.0,100.0,0.0,neu,found six inch long piece wire salsa 
+882,559,47,"The service was terrible, food was mediocre.",38.3,61.7,0.0,neu,service terrible  food mediocre 
+883,858,47,We definately enjoyed ourselves.,0.0,37.7,62.3,pos,definately enjoyed 
+884,852,47,I ordered Albondigas soup - which was just warm - and tasted like tomato soup with frozen meatballs.,0.0,71.39999999999999,28.6,neu,ordered Albondigas soup  warm  tasted like tomato soup frozen meatballs 
+885,617,47,"On three different occasions I asked for well done or medium well, and all three times I got the bloodiest piece of meat on my plate.",0.0,78.10000000000001,21.9,neu,three different occasions asked well done medium well  three times got bloodiest piece meat plate 
+886,37,47,I had about two bites and refused to eat anymore.,30.6,69.39999999999999,0.0,neu,two bites refused eat anymore 
+887,87,48,The service was extremely slow.,0.0,100.0,0.0,neu,service extremely slow 
+888,658,48,"After 20 minutes wait, I got a table.",0.0,100.0,0.0,neu,20 minutes wait  got table 
+889,363,48,Seriously killer hot chai latte.,60.0,40.0,0.0,neg,Seriously killer hot chai latte 
+890,466,48,"No allergy warnings on the menu, and the waitress had absolutely no clue as to which meals did or did not contain peanuts.",18.0,82.0,0.0,neu,allergy warnings menu  waitress absolutely clue meals contain peanuts 
+891,355,48,My boyfriend tried the Mediterranean Chicken Salad and fell in love.,0.0,62.5,37.5,neu,boyfriend tried Mediterranean Chicken Salad fell love 
+892,44,48,Their rotating beers on tap is also a highlight of this place.,0.0,71.39999999999999,28.6,neu,rotating beers tap also highlight place 
+893,728,48,Pricing is a bit of a concern at Mellow Mushroom.,0.0,100.0,0.0,neu,Pricing bit concern Mellow Mushroom 
+894,65,48,Worst Thai ever.,57.7,42.3,0.0,neg,Worst Thai ever 
+895,1199,48,If you stay in Vegas you must get breakfast here at least once.,0.0,100.0,0.0,neu,stay Vegas must get breakfast least 
+896,864,48,I want to first say our server was great and we had perfect service.,0.0,35.5,64.5,pos,want first say server great perfect service 
+897,610,48,The pizza selections are good.,0.0,50.8,49.2,neu,pizza selections good 
+898,75,48,"I had strawberry tea, which was good.",0.0,57.99999999999999,42.0,neu,strawberry tea  good 
+899,328,48,Highly unprofessional and rude to a loyal patron!,53.0,22.2,24.9,neg,Highly unprofessional rude loyal patron 
+900,84,48,"Overall, a great experience.",0.0,49.4,50.6,pos,Overall  great experience 
+901,68,48,Spend your money elsewhere.,0.0,100.0,0.0,neu,Spend money elsewhere 
+902,620,48,Their regular toasted bread was equally satisfying with the occasional pats of butter... Mmmm...!,0.0,77.0,23.0,neu,regular toasted bread equally satisfying occasional pats butter  Mmmm  
+903,1077,48,The Buffet at Bellagio was far from what I anticipated.,0.0,100.0,0.0,neu,Buffet Bellagio far anticipated 
+904,621,48,"And the drinks are WEAK, people!",49.5,50.5,0.0,neu,drinks WEAK  people 
+905,496,48,#NAME?,0.0,100.0,0.0,neu, NAME 
+906,27,48,"Also, I feel like the chips are bought, not made in house.",0.0,78.3,21.7,neu,Also  feel like chips bought  made house 
+907,128,48,After the disappointing dinner we went elsewhere for dessert.,39.0,61.0,0.0,neu,disappointing dinner went elsewhere dessert 
+908,120,48,The chips and sals a here is amazing!!!!!!!!!!!!!!!!!!!,0.0,80.9,19.1,neu,chips sals amazing                   
+909,659,48,We won't be returning.,0.0,100.0,0.0,neu,wo nt returning 
+910,125,48,This is my new fav Vegas buffet spot.,0.0,62.5,37.5,neu,new fav Vegas buffet spot 
+911,474,48,I seriously cannot believe that the owner has so many unexperienced employees that all are running around like chickens with their heads cut off.,23.3,61.3,15.3,neu,seriously believe owner many unexperienced employees running around like chickens heads cut 
+912,287,48,"Very, very sad.",60.8,39.2,0.0,neg, sad 
+913,183,49,"i felt insulted and disrespected, how could you talk and judge another human being like that?",37.5,47.6,14.9,neu,felt insulted disrespected  could talk judge another human like 
+914,16,49,"How can you call yourself a steakhouse if you can't properly cook a steak, I don't understand!",0.0,100.0,0.0,neu,call steakhouse ca nt properly cook steak  nt understand 
+915,19,49,I'm not impressed with the concept or the food.,0.0,56.3,43.7,neu,m impressed concept food 
+916,23,49,The only thing I wasn't too crazy about was their guacamole as I don't like it purÃÂÃÂÃÂÃÂ©ed.,18.9,62.8,18.3,neu,thing nt crazy guacamole nt like purÃÂÃÂÃÂÃÂ©ed 
+917,175,49,"There is really nothing for me at postinos, hope your experience is better",23.3,48.5,28.1,neu,really nothing postinos  hope experience better
+918,301,49,I got food poisoning here at the buffet.,48.7,51.3,0.0,neu,got food poisoning buffet 
+919,393,49,They brought a fresh batch of fries and I was thinking yay something warm but no!,0.0,43.2,56.8,pos,brought fresh batch fries thinking yay something warm 
+920,634,49,"What SHOULD have been a hilarious, yummy Christmas Eve dinner to remember was the biggest fail of the entire trip for us.",17.9,51.0,31.1,neu,hilarious  yummy Christmas Eve dinner remember biggest fail entire trip us 
+921,635,49,"Needless to say, I won't be going back anytime soon.",0.0,100.0,0.0,neu,Needless say  wo nt going back anytime soon 
+922,7,49,This place is disgusting!,64.9,35.099999999999994,0.0,neg,place disgusting 
+923,199,49,"Every time I eat here, I see caring teamwork to a professional degree.",0.0,73.8,26.200000000000003,neu,Every time eat  see caring teamwork professional degree 
+924,385,49,The RI style calamari was a joke.,0.0,64.5,35.5,neu,RI style calamari joke 
+925,634,49,"However, there was so much garlic in the fondue, it was barely edible.",0.0,100.0,0.0,neu,However  much garlic fondue  barely edible 
+926,645,49,"I could barely stomach the meal, but didn't complain because it was a business lunch.",0.0,81.0,19.0,neu,could barely stomach meal  nt complain business lunch 
+927,195,49,"It was so bad, I had lost the heart to finish it.",44.6,23.1,32.300000000000004,neg,bad  lost heart finish 
+928,299,49,It also took her forever to bring us the check when we asked for it.,0.0,100.0,0.0,neu,also took forever bring us check asked 
+929,3,49,We aren't ones to make a scene at restaurants but I just don't get it...definitely lost the love after this one!,25.5,52.5,22.0,neu,nt ones make scene restaurants nt get  definitely lost love one 
+930,19,49,Disappointing experience.,61.5,38.5,0.0,neg,Disappointing experience 
+931,721,50,"The food is about on par with Denny's, which is to say, not good at all.",0.0,73.4,26.6,neu,food par Denny s  say  good 
+932,479,50,"If you want to wait for mediocre food and downright terrible service, then this is the place for you.",25.0,64.5,10.5,neu,want wait mediocre food downright terrible service  place 
+933,130,50,WAAAAAAyyyyyyyyyy over rated is all I am saying.,0.0,100.0,0.0,neu,WAAAAAAyyyyyyyyyy rated saying 
+934,708,50,We won't be going back.,0.0,100.0,0.0,neu,wo nt going back 
+935,74,50,The place was fairly clean but the food simply wasn't worth it.,16.1,57.9,26.0,neu,place fairly clean food simply nt worth 
+936,85,50,This place lacked style!!,0.0,100.0,0.0,neu,place lacked style  
+937,477,50,"The sangria was about half of a glass wine full and was $12, ridiculous.",21.7,78.3,0.0,neu,sangria half glass wine full  12  ridiculous 
+938,855,50,Don't bother coming here.,0.0,59.6,40.400000000000006,neu,nt bother coming 
+939,32,50,"The meat was pretty dry, I had the sliced brisket and pulled pork.",0.0,71.39999999999999,28.6,neu,meat pretty dry  sliced brisket pulled pork 
+940,42,50,"The building itself seems pretty neat, the bathroom is pretty trippy, but I wouldn't eat here again.",0.0,51.5,48.5,neu,building seems pretty neat  bathroom pretty trippy  would nt eat 
+941,402,51,It was equally awful.,60.0,40.0,0.0,neg,equally awful 
+942,1246,51,Probably not in a hurry to go back.,0.0,100.0,0.0,neu,Probably hurry go back 
+943,677,51,very slow at seating even with reservation.,0.0,100.0,0.0,neu,slow seating even reservation 
+944,545,51,Not good by any stretch of the imagination.,0.0,50.8,49.2,neu,good stretch imagination 
+945,552,51,The cashew cream sauce was bland and the vegetables were undercooked.,0.0,100.0,0.0,neu,cashew cream sauce bland vegetables undercooked 
+946,550,51,"The chipolte ranch dipping sause was tasteless, seemed thin and watered down with no heat.",0.0,100.0,0.0,neu,chipolte ranch dipping sause tasteless  seemed thin watered heat 
+947,552,51,"It was a bit too sweet, not really spicy enough, and lacked flavor.",0.0,75.0,25.0,neu,bit sweet  really spicy enough  lacked flavor 
+948,1251,51,I was VERY disappointed!!,64.8,35.2,0.0,neg,disappointed  
+949,397,51,This place is horrible and way overpriced.,46.7,53.3,0.0,neu,place horrible way overpriced 
+950,1245,51,"Maybe it's just their Vegetarian fare, but I've been twice and I thought it was average at best.",0.0,70.39999999999999,29.6,neu,Maybe s Vegetarian fare  ve twice thought average best 
+951,216,51,It wasn't busy at all and now we know why.,0.0,100.0,0.0,neu,nt busy know 
+952,674,51,The tables outside are also dirty a lot of the time and the workers are not always friendly and helpful with the menu.,16.2,50.3,33.5,neu,tables outside also dirty lot time workers always friendly helpful menu 
+953,677,51,"The ambiance here did not feel like a buffet setting, but more of a douchey indoor garden for tea and biscuits.",0.0,81.5,18.5,neu,ambiance feel like buffet setting  douchey indoor garden tea biscuits 
+954,1248,51,Con: spotty service.,0.0,100.0,0.0,neu,Con  spotty service 
+955,1251,51,"The fries were not hot, and neither was my burger.",0.0,100.0,0.0,neu,fries hot  neither burger 
+956,1249,51,But then they came back cold.,0.0,100.0,0.0,neu,came back cold 
+957,667,51,"Then our food came out, disappointment ensued.",39.8,60.2,0.0,neu,food came  disappointment ensued 
+958,1255,51,The real disappointment was our waiter.,52.400000000000006,47.6,0.0,neg,real disappointment waiter 
+959,670,51,My husband said she was very rude... did not even apologize for the bad food or anything.,43.6,47.0,9.4,neu,husband said rude  even apologize bad food anything 
+960,282,52,The only reason to eat here would be to fill up before a night of binge drinking just to get some carbs in your stomach.,0.0,100.0,0.0,neu,reason eat would fill night binge drinking get carbs stomach 
+961,1050,52,"Insults, profound deuchebaggery, and had to go outside for a smoke break while serving just to solidify it.",20.3,79.7,0.0,neu,Insults  profound deuchebaggery  go outside smoke break serving solidify 
+962,283,52,If someone orders two tacos don't' you think it may be part of customer service to ask if it is combo or ala cart?,0.0,100.0,0.0,neu,someone orders two tacos nt  think may part customer service ask combo ala cart 
+963,581,52,She was quite disappointed although some blame needs to be placed at her door.,50.2,49.8,0.0,neg,quite disappointed although blame needs placed door 
+964,1047,52,After all the rave reviews I couldn't wait to eat here......what a disappointment!,31.0,69.0,0.0,neu,rave reviews could nt wait eat  disappointment 
+965,693,52,Del Taco is pretty nasty and should be avoided if possible.,45.5,30.3,24.2,neg,Del Taco pretty nasty avoided possible 
+966,680,52,It's NOT hard to make a decent hamburger.,21.9,78.10000000000001,0.0,neu,s hard make decent hamburger 
+967,281,52,But I don't like it.,51.3,48.7,0.0,neg,nt like 
+968,1050,52,Hell no will I go back,69.69999999999999,30.3,0.0,neg,Hell go back
+969,690,52,We've have gotten a much better service from the pizza place next door than the services we received from this restaurant.,0.0,80.5,19.5,neu,ve gotten much better service pizza place next door services received restaurant 
+970,681,52,"I don't know what the big deal is about this place, but I won't be back ""ya'all"".",0.0,100.0,0.0,neu,nt know big deal place  wo nt back  yaall  
+971,683,52,I immediately said I wanted to talk to the manager but I did not want to talk to the guy who was doing shots of fireball behind the bar.,0.0,90.2,9.8,neu,immediately said wanted talk manager want talk guy shots fireball behind bar 
+972,201,52,The ambiance isn't much better.,37.6,62.4,0.0,neu,ambiance nt much better 
+973,1051,52,"Unfortunately, it only set us up for disapppointment with our entrees.",28.6,71.39999999999999,0.0,neu,Unfortunately  set us disapppointment entrees 
+974,206,52,The food wasn't good.,44.5,55.50000000000001,0.0,neu,food nt good 
+975,1041,52,"Your servers suck, wait, correction, our server Heimer sucked.",39.6,60.4,0.0,neu,servers suck  wait  correction  server Heimer sucked 
+976,210,52,What happened next was pretty....off putting.,0.0,61.0,39.0,neu,happened next pretty  putting 
+977,435,53,"too bad cause I know it's family owned, I really wanted to like this place.",21.5,61.4,17.1,neu,bad cause know s family owned  really wanted like place 
+978,697,53,Overpriced for what you are getting.,0.0,100.0,0.0,neu,Overpriced getting 
+979,523,53,I vomited in the bathroom mid lunch.,0.0,100.0,0.0,neu,vomited bathroom mid lunch 
+980,343,53,"I kept looking at the time and it had soon become 35 minutes, yet still no food.",0.0,100.0,0.0,neu,kept looking time soon become 35 minutes  yet still food 
+981,345,53,"I have been to very few places to eat that under no circumstances would I ever return to, and this tops the list.",0.0,73.2,26.8,neu,places eat circumstances would ever return  tops list 
+982,152,53,We started with the tuna sashimi which was brownish in color and obviously wasn't fresh.,19.7,80.30000000000001,0.0,neu,started tuna sashimi brownish color obviously nt fresh 
+983,446,53,Food was below average.,0.0,100.0,0.0,neu,Food average 
+984,701,53,It sure does beat the nachos at the movies but I would expect a little bit more coming from a restaurant.,0.0,81.3,18.7,neu,sure beat nachos movies would expect little bit coming restaurant 
+985,152,53,"All in all, Ha Long Bay was a bit of a flop.",24.5,51.0,24.5,neu, Ha Long Bay bit flop 
+986,512,53,The problem I have is that they charge $11.99 for a sandwich that is no bigger than a Subway sub (which offers better and more amount of vegetables).,14.499999999999998,69.89999999999999,15.6,neu,problem charge  1199 sandwich bigger Subway sub  offers better amount vegetables  
+987,523,53,Shrimp- When I unwrapped it (I live only 1/2 a mile from Brushfire) it was literally ice cold.,0.0,100.0,0.0,neu,Shrimp unwrapped  live 12 mile Brushfire  literally ice cold 
+988,161,53,"It lacked flavor, seemed undercooked, and dry.",0.0,100.0,0.0,neu,lacked flavor  seemed undercooked  dry 
+989,345,53,It really is impressive that the place hasn't closed down.,0.0,58.2,41.8,neu,really impressive place nt closed 
+990,524,53,I would avoid this place if you are staying in the Mirage.,30.6,69.39999999999999,0.0,neu,would avoid place staying Mirage 
+991,353,53,The refried beans that came with my meal were dried out and crusty and the food was bland.,0.0,100.0,0.0,neu,refried beans came meal dried crusty food bland 
+992,147,53,Spend your money and time some place else.,0.0,100.0,0.0,neu,Spend money time place else 
+993,447,53,A lady at the table next to us found a live green caterpillar In her salad.,0.0,100.0,0.0,neu,lady table next us found live green caterpillar salad 
+994,147,53,the presentation of the food was awful.,50.0,50.0,0.0,neg,presentation food awful 
+995,150,53,I can't tell you how disappointed I was.,0.0,61.0,39.0,neu,ca nt tell disappointed 
+996,340,53,I think food should have flavor and texture and both were lacking.,0.0,100.0,0.0,neu,think food flavor texture lacking 
+997,701,53,Appetite instantly gone.,0.0,100.0,0.0,neu,Appetite instantly gone 
+998,347,53,Overall I was not impressed and would not go back.,0.0,61.7,38.3,neu,Overall impressed would go back 
+999,151,53,"The whole experience was underwhelming, and I think we'll just go to Ninja Sushi next time.",0.0,100.0,0.0,neu,whole experience underwhelming  think ll go Ninja Sushi next time 
+1000,355,54,"Then, as if I hadn't wasted enough of my life there, they poured salt in the wound by drawing out the time it took to bring the check.",0.0,84.2,15.8,neu, nt wasted enough life  poured salt wound drawing time took bring check 

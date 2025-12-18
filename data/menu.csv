@@ -1,0 +1,17 @@
+productid,Category,Product,Price,product_cost,marketing,self-life,stages
+1,Burger,Peri-Peri Burger,35,10.5,2.8,1,4
+2,Burger,Peri-Peri Cheese Burger,45,13.5,3.6,1,4
+3,Burger,Shezwan Burger,35,10.5,2.8,1,4
+4,Burger,Shezwan Cheese Burger,45,13.5,3.6,1,4
+5,Burger,Tandoori Burger,35,10.5,2.8,1,4
+6,Burger,Tandoori Cheese Burger,45,13.5,3.6,1,4
+7,Burger,Veg Burger,30,9,2.4,1,4
+8,Burger,Veg Cheese Burger,40,12,3.2,1,4
+9,Coffee,Cold Coffee,25,7.5,2,2,4
+10,Pizza,Tandoori Paneer Pizza,80,24,6.4,2,4
+11,Pizza,Classic Corn Pizza,80,24,6.4,3,4
+12,Pizza,Super Shezwan Pizza,80,24,6.4,1,4
+13,Pizza,Veg Delight Pizza,60,18,4.8,4,4
+14,Pizza,Margherita Pizza,60,18,4.8,6,4
+15,French Fries,French Fries,50,15,4,2,4
+16,French Fries,French Fries with Dip,100,30,8,1,4
