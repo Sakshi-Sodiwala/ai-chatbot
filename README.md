@@ -3,7 +3,7 @@ AI-Powered Retail Analytics Chatbot
 Project Overview
 This project implements an AI-powered chatbot that helps users analyze retail data to identify the best outlet, the best product, and answer natural language questions about sales performance.
 
-The chatbot follows a data-grounded (RAG-style) approach by combining structured dataset filtering with the Groq LLaMA 3.1 large language model to generate accurate, non-hallucinated responses.
+The chatbot follows a data-grounded (RAG-style) approach by combining structured dataset filtering with the Groq LLaMA 3.3 large language model to generate accurate, non-hallucinated responses.
 
 
 Dataset
@@ -108,3 +108,8 @@ best_product.png
 Notes
 The Groq API key is loaded from an environment variable and is not hardcoded.
 The chatbot answers strictly based on dataset context and clearly states when information is not available.
+
+Demo Video
+https://drive.google.com/file/d/1790mdP4G4LFUZTijKkcU53VF6qz5kTXZ/view?usp=drive_link
+
+
